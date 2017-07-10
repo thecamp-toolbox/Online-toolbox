@@ -1,0 +1,45 @@
+Prevnext: 
+
+----
+
+Title: Storyboard
+
+----
+
+Baseline: Illustrer en quelques images le parcours d'un utilisateur
+
+----
+
+Description: En général, il est plus facile de se concentrer sur une partie spécifique du parcours. Et la plupart des storyboards peuvent donc tenir en très peu de cases (situation, problème, solution, résolution).
+
+----
+
+Imgcredit: Gravitytank
+
+----
+
+Cats: 
+
+----
+
+Categories: app, object, strategy, space, service, interactive
+
+----
+
+Goal: show
+
+----
+
+Focus: experience
+
+----
+
+Difficulty: 2
+
+----
+
+Tools: 
+
+- 
+  title: Pixton
+  toollink: https://www.pixton.com/

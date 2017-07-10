@@ -1,0 +1,41 @@
+Prevnext: 
+
+----
+
+Title: Landing page
+
+----
+
+Baseline: Illustrer la page d'accueil de son projet
+
+----
+
+Description: 
+
+----
+
+Imgcredit: Unbounce
+
+----
+
+Cats: 
+
+----
+
+Categories: app, object, space, service, interactive
+
+----
+
+Goal: show
+
+----
+
+Focus: style
+
+----
+
+Difficulty: 2
+
+----
+
+Tools: 

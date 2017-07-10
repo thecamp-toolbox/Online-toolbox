@@ -1,0 +1,45 @@
+Prevnext: 
+
+----
+
+Title: Prototype mono-fonctionnalité
+
+----
+
+Baseline: Un prototype fonctionnel qui se concentre sur ce qui fait la spécificité du concept
+
+----
+
+Description: 
+
+----
+
+Imgcredit: 
+
+----
+
+Difficulty: 3
+
+----
+
+Cats: 
+
+----
+
+Categories: app, space, service, interactive
+
+----
+
+Goal: show, test
+
+----
+
+Focus: market, experience, style
+
+----
+
+Examples: 
+
+----
+
+Tools: 

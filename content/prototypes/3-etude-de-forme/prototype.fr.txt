@@ -1,0 +1,41 @@
+Prevnext: 
+
+----
+
+Title: Étude de forme
+
+----
+
+Baseline: Tester les formes d'un objet
+
+----
+
+Description: 
+
+----
+
+Imgcredit: IDEO
+
+----
+
+Cats: 
+
+----
+
+Categories: object, interactive
+
+----
+
+Goal: show, makereal
+
+----
+
+Focus: style
+
+----
+
+Difficulty: 3
+
+----
+
+Tools: 

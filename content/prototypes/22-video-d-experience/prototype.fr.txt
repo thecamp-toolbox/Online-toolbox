@@ -1,0 +1,191 @@
+Prevnext: 
+
+----
+
+Title: Vidéo d'expérience
+
+----
+
+Baseline: Illustrer sa proposition de service en suivant le parcours d'un utilisateur
+
+----
+
+Description: 
+
+Une vidéo d'expérience, aussi appelé vidéo-prototype est un bon moyen de synthétiser une idée et de fédérer une équipe. Elle peut être faite avec très peu de moyens et est à la portée de publics avec des profils non techniques. De plus, le rendu vidéo (en général <1min) est un format idéal pour être partagé dans le cadre d'une entreprise. 
+
+Elle se prête bien comme activité de synthèse lors d'un atelier de quelques heures. Une deadline précise force les équipes à prendre des décisions rapidement (hors du cadre 'sous tension' des ateliers, il est plus difficile de prendre ces décisions). 
+
+En général, un vidéo d'expérience va raconter le parcours d'un utilisateur en se concentrant sur les points de contact (*touchpoints*) les plus pertinents pour faire comprendre le concept. À l'inverse d'une vidéo 'démo', dans laquelle il est impératif de montrer une forme de démonstrateur, on peut raconter l'expérience  sans jamais montrer le produit. 
+
+Historiquement, c'est grâce à une (link: https://www.youtube.com/watch?v=xy9nSnalvPc text: vidéo de ce type) que Dropbox a acquis ses premiers utilisateurs. 
+
+On peut choisir plusieurs options pour la réaliser, en particulier : 
+
+- animation 'cartoon' ou 'slideshow' (voir outils) 
+- petite échelle (par exemple avec des LEGOs ou des Playmobils) 
+- échelle 1. En devenant soi-même les acteurs.  
+
+Chaque type a ses avantages et ses inconvénients. Bien sûr, il est aussi imaginable de faire des rendus en stop motion (animation image par image) ou timelapse, d'ajouter des contenus en sur-impression, par exemple avec After Effects, mais cela peut vite être compliqué. Dans le cadre d'un atelier court, il est conseillé de s'appuyer sur des techniques simples ou que l'on connait bien.  
+
+La plupart des ordinateurs ont un logiciel de montage par défaut (Mac : iMovie, Windows : Windows Movie Maker). Il existe aussi des applications simples (voir plus bas) pour pouvoir faire l'intégralité (capture et montage) sur smartphone ou tablette.
+
+###Quelques conseils (pour les participants) 
+
+- 80% d'une vidéo réussie, c'est de la préparation !  
+- attention au bruit ambiant et à la résonance de la pièce
+- attention aux vibrations / mouvements. Essayer de poser l’appareil photo, de le tenir à deux mains, de vous appuyer contre un mur ou d’utiliser un trépied (il en existe de petits, très pratiques) 
+- éviter de se déplacer en filmant 
+- éviter les contre-jours 
+- préférer le format 'paysage' (même si le format 'portrait' parait plus naturel avec un mobile) 
+- si elle est destinée à être partagée sur les réseaux sociaux, il vaut mieux qu’elle puisse marcher sans le son. Donc sans voix off mais potentiellement avec du texte sur l’écran
+- garder le montage à un minimum (5 à 10 plans max), sauf si vous êtes un spécialiste
+- pour faciliter le montage, garder un peu de temps avant / après la captation
+- préférer le shooting en une prise son + voix en même temps 
+- simuler toutes les interactions qui ne sont pas encore fonctionnelles dans votre projet
+- utiliser des outils que vous connaissez. Un iPhone a une caméra bien meilleure que certains appareils photos numériques 
+- éviter de filmer des écrans (de téléphone, d'ordinateurs, etc.). Le résultat est souvent décevant. Préférez des outils de captation dédiés si besoin. 
+- voix-off : enregistrer une voix-off dédiée peut-être compliqué mais permet de donner un effet 'pro' à la vidéo. Idéalement : enregistrer la voix-off d’abord, puis filmer ensuite. 
+- musique : attention aux droits d'auteur. Préférer des musiques libres de droits 
+- plus largement, selon la diffusion que vous pensez donner à la vidéo, faîtes attention aux droit à l'image (en particulier des enfants) 
+- mettre son smartphone en mode avion pendant la captation
+
+###Déroulé type 
+
+1. Phase de conception pour commencer (par exemple, à travers du storyboarding) pour laisser le temps aux participants de planifier leurs prises et choisir le bon outil
+1. Captation (prévoir au minimum 1h30). Rappeler régulièrement l'échéance aux participants. Si ils n'ont pas l'habitude de filmer, ils vont avoir tendance à repousser au maximum le moment où ils vont commencer. 
+1. Récupération des vidéos (anticiper une manière de les récupérer les vidéos, adaptateurs ou autre). Il est aussi possible de fournir aux participants une animation type à intégrer en introduction ou conclusion de leur vidéo. 
+1. Visionnement en équipe (c'est toujours un moment agréable) 
+
+###Matériel 
+(checklist: 
+- micro-cravate avec long fil 
+- micro HF + batterie 
+- tablettes avec applications pré-installées
+- fond vert 
+- fonds imprimés pour différents univers 
+- Legos / Playmobil
+- Polaroid Cube / GoPro 
+- trépieds pour appareil photo ou mobile
+- caméra 
+- éclairage (sur pied / mobile LED)
+- cartes mémoire, SD ou autre
+- selfie stick 
+- photo cube + lumières
+- cabine et matériel pour enregistrer du son
+- déguisements)
+
+----
+
+Imgcredit: Magic Sauce
+
+----
+
+Cats: 
+
+----
+
+Categories: app, object, strategy, space, service, interactive
+
+----
+
+Goal: show, makereal
+
+----
+
+Focus: experience
+
+----
+
+Difficulty: 3
+
+----
+
+Tools: 
+
+- 
+  title: Powtoon
+  toollink: https://www.powtoon.com/
+  type: animation in-browser
+- 
+  title: Animaker
+  toollink: https://www.animaker.com/
+  type: animation in-browser
+- 
+  title: GoAnimate
+  toollink: https://goanimate.com/
+  type: animation in-browser
+- 
+  title: Moovly
+  toollink: https://www.moovly.com/
+  type: animation in-browser
+- 
+  title: Pocket Vidéo
+  toollink: https://pocket.video/
+  type: App
+- 
+  title: Quik
+  toollink: https://quik.gopro.com/en/
+  type: App
+- 
+  title: Splice
+  toollink: https://spliceapp.com/
+  type: App de montage (iPhone)
+- 
+  title: Magisto
+  toollink: https://www.magisto.com/
+  type: App
+- 
+  title: Keepvid
+  type: télécharger des vidéos depuis Youtube
+  toollink: http://keepvid.com
+- 
+  title: U2any Screen recorder
+  type: "Capture vidéo d'écran (Mac)"
+  toollink: >
+    http://en.freedownloadmanager.org/Mac-OS/U2Any-Screen-Recorder-Free.html
+- 
+  title: Unsplash
+  type: Belles images libres de droits
+  toollink: http://unsplash.com
+- 
+  title: Kinemaster
+  type: App de montage (Android)
+  toollink: 'https://play.google.com/store/apps/details?id=com.nexstreaming.app.kinemasterfree&hl=en'
+
+----
+
+Examples: 
+
+- 
+  title: Dancing Elmo app
+  exlink: >
+    https://www.youtube.com/watch?v=-SOeMA3DUEs
+- 
+  title: 'Runsii - Games Paper Prototype'
+  imglink: 'https://img.youtube.com/vi/x48qOA2Z_xQ&t/default.jpg'
+  exlink: 'https://www.youtube.com/watch?v=x48qOA2Z_xQ&t'
+- 
+  title: 'VISA - Small change (wearable)'
+  exlink: >
+    https://www.youtube.com/watch?v=SuuF0EcI_WU
+- 
+  title: >
+    La vie sociale secrète des oeuvres
+    (Museomix MTL 2014)
+  exlink: https://vimeo.com/112303858
+- 
+  title: Exemple de vidéo pitchmotion
+  exlink: https://vimeo.com/192634477
+- 
+  title: Amsterdam Médialab experience video
+  exlink: >
+    https://www.youtube.com/watch?v=HVy36RKucCc
+- 
+  title: Eneco (Amsterdam Medialab)
+  exlink: >
+    https://www.youtube.com/watch?v=kN2rb7-UqZw
+- 
+  title: Time flies
+  exlink: >
+    https://www.youtube.com/watch?v=BzmxKbgnScI

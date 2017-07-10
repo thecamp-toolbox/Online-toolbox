@@ -1,0 +1,41 @@
+Prevnext: 
+
+----
+
+Title: Bodystorming
+
+----
+
+Baseline: Technique de créativité s'appuyant sur la simulation d'un service
+
+----
+
+Description: 
+
+----
+
+Imgcredit: Unsworn Industries
+
+----
+
+Cats: 
+
+----
+
+Categories: app, strategy, space, service, interactive
+
+----
+
+Goal: test, makereal
+
+----
+
+Focus: experience
+
+----
+
+Difficulty: 2
+
+----
+
+Tools: 

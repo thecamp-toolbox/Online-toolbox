@@ -1,0 +1,41 @@
+Prevnext: 
+
+----
+
+Title: Fausse porte
+
+----
+
+Baseline: Tester très simplement la demande pour un nouveau produit
+
+----
+
+Description: 
+
+----
+
+Imgcredit: Andrew Cowie / Barcroft Media / Harry Hill
+
+----
+
+Cats: 
+
+----
+
+Categories: app, service
+
+----
+
+Goal: test
+
+----
+
+Focus: market
+
+----
+
+Difficulty: 2
+
+----
+
+Tools: 

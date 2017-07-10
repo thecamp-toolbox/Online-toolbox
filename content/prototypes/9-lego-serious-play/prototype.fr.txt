@@ -1,0 +1,41 @@
+Prevnext: 
+
+----
+
+Title: LEGO Serious Play
+
+----
+
+Baseline: Converger vers une idée et la modéliser
+
+----
+
+Description: 
+
+----
+
+Imgcredit: University of Aberdeen
+
+----
+
+Cats: 
+
+----
+
+Categories: strategy, space, service
+
+----
+
+Goal: makereal
+
+----
+
+Focus: experience
+
+----
+
+Difficulty: 1
+
+----
+
+Tools: 

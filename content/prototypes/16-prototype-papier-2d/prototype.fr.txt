@@ -1,0 +1,41 @@
+Prevnext: 
+
+----
+
+Title: Prototype papier (2D)
+
+----
+
+Baseline: Visualiser une interface et placer différents contenus
+
+----
+
+Description: 
+
+----
+
+Imgcredit: Sticky Jots
+
+----
+
+Cats: 
+
+----
+
+Categories: app, service
+
+----
+
+Goal: makereal
+
+----
+
+Focus: experience
+
+----
+
+Difficulty: 2
+
+----
+
+Tools: 

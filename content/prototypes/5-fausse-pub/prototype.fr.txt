@@ -1,0 +1,41 @@
+Prevnext: 
+
+----
+
+Title: Fausse publicité
+
+----
+
+Baseline: Illustrer le(s) USP(s) du concept
+
+----
+
+Description: 
+
+----
+
+Imgcredit: Stocklayouts
+
+----
+
+Cats: 
+
+----
+
+Categories: app, object, strategy, space, service, interactive
+
+----
+
+Goal: makereal
+
+----
+
+Focus: style
+
+----
+
+Difficulty: 2
+
+----
+
+Tools: 

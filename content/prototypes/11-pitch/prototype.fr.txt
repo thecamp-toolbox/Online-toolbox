@@ -1,0 +1,41 @@
+Prevnext: 
+
+----
+
+Title: Pitch
+
+----
+
+Baseline: Faire comprendre simplement une proposition de service
+
+----
+
+Description: 
+
+----
+
+Imgcredit: Shutterstock
+
+----
+
+Cats: 
+
+----
+
+Categories: app, object, strategy, space, service, interactive
+
+----
+
+Goal: show
+
+----
+
+Focus: style
+
+----
+
+Difficulty: 2
+
+----
+
+Tools: 

@@ -1,0 +1,41 @@
+Prevnext: 
+
+----
+
+Title: Pitchdeck
+
+----
+
+Baseline: Faire comprendre simplement une proposition de service
+
+----
+
+Description: 
+
+----
+
+Imgcredit: Alexikold
+
+----
+
+Cats: 
+
+----
+
+Categories: app, object, strategy, space, service, interactive
+
+----
+
+Goal: show
+
+----
+
+Focus: style
+
+----
+
+Difficulty: 1
+
+----
+
+Tools: 

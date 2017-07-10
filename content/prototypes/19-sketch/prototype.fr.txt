@@ -1,0 +1,33 @@
+Title: Sketch
+
+----
+
+Baseline: Faire comprendre simplement une proposition de service
+
+----
+
+Description: Se concentre sur la partie qui fait la spécificité de la proposition. Idéalement, toute l'histoire tient en une image (ne pas chercher à faire un storybaord).
+
+----
+
+Categories: app, object, strategy, space, service, interactive
+
+----
+
+Imgcredit: Shavonne Maclin
+
+----
+
+Goal: show
+
+----
+
+Focus: experience
+
+----
+
+Difficulty: 1
+
+----
+
+Tools: 

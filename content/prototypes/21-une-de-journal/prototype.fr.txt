@@ -1,0 +1,64 @@
+Prevnext: 
+
+----
+
+Title: Une de journal
+
+----
+
+Baseline: Se projeter dans le temps pour imaginer l'impact du projet
+
+----
+
+Description: 
+
+Design fiction 
+Se positionner dans le futur. 
+Se concentrer sur ce qui a changé dans le monde. Sur comment le monde 'pourrait être' plutôt que comment 'il est'. 
+
+Trouver un titre assez engagé. Qui montre la nouveauté. 
+
+Format assez libre : 
+
+- On peut décrire en partie le parcours d'un utilisateur (*Mikaël, 25 ans, est réveillé par un chant d'oiseaux...*).
+- Le comparer avec l'existant (*en 2017, ce simple geste lui aurait pris 25 minutes*) 
+- On peut décrire le parcours comment on en est arrivé là (*Dès 2020, certains - traités à l'époque de fous - s'étaient déjà laissés tenter par l'aventure.*)
+- Il peut être intéressant d'ajouter une image d'illustration
+
+----
+
+Imgcredit: 
+
+----
+
+Cats: 
+
+----
+
+Categories: app, interactive, object, service, space, strategy
+
+----
+
+Goal: show
+
+----
+
+Focus: style
+
+----
+
+Difficulty: 2
+
+----
+
+Tools: 
+
+- 
+  title: Powerpoint
+  type: Logiciel
+  toollink: >
+    https://office.live.com/start/PowerPoint.aspx
+
+----
+
+Examples: 

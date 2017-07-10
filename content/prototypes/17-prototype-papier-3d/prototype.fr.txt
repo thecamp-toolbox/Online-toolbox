@@ -1,0 +1,41 @@
+Prevnext: 
+
+----
+
+Title: Prototype papier (3D)
+
+----
+
+Baseline: Modéliser simplement la forme d'un objet / espace
+
+----
+
+Description: 
+
+----
+
+Imgcredit: Ashley Costanzo
+
+----
+
+Cats: 
+
+----
+
+Categories: object, space, service, interactive
+
+----
+
+Goal: test, makereal
+
+----
+
+Focus: experience, style
+
+----
+
+Difficulty: 3
+
+----
+
+Tools: 

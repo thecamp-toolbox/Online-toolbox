@@ -1,0 +1,41 @@
+Prevnext: 
+
+----
+
+Title: Prototype interactif
+
+----
+
+Baseline: Faire vivre une expérience en simulant des interactions réelles
+
+----
+
+Description: 
+
+----
+
+Imgcredit: Aaron Brako
+
+----
+
+Cats: 
+
+----
+
+Categories: object, service, interactive
+
+----
+
+Goal: show, test, makereal
+
+----
+
+Focus: experience
+
+----
+
+Difficulty: 4
+
+----
+
+Tools: 

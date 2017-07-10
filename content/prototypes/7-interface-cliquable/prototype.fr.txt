@@ -1,0 +1,41 @@
+Prevnext: 
+
+----
+
+Title: Interface cliquable
+
+----
+
+Baseline: Donner vie à une idée en permettant une maquette dans laquelle on peut naviguer
+
+----
+
+Description: 
+
+----
+
+Imgcredit: AppCooker
+
+----
+
+Cats: 
+
+----
+
+Categories: app
+
+----
+
+Goal: show, test, makereal
+
+----
+
+Focus: experience, style
+
+----
+
+Difficulty: 3
+
+----
+
+Tools: 

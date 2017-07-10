@@ -1,0 +1,41 @@
+Prevnext: 
+
+----
+
+Title: Magicien d'Oz
+
+----
+
+Baseline: Tester un service en simulant les interactions
+
+----
+
+Description: 
+
+----
+
+Imgcredit: Industrial Design of the University of Technology Eindhoven
+
+----
+
+Cats: 
+
+----
+
+Categories: app, service, interactive
+
+----
+
+Goal: test, makereal
+
+----
+
+Focus: market, experience
+
+----
+
+Difficulty: 3
+
+----
+
+Tools: 

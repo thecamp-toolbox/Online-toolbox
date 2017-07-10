@@ -1,0 +1,41 @@
+Prevnext: 
+
+----
+
+Title: Concierge
+
+----
+
+Baseline: Tester le besoin d'un client et la manière d'y répondre
+
+----
+
+Description: 
+
+----
+
+Imgcredit: Google Images
+
+----
+
+Cats: 
+
+----
+
+Categories: app, service
+
+----
+
+Goal: test
+
+----
+
+Focus: market
+
+----
+
+Difficulty: 3
+
+----
+
+Tools: 

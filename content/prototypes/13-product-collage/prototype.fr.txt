@@ -1,0 +1,50 @@
+Prevnext: 
+
+----
+
+Title: Product collage
+
+----
+
+Baseline: Décrire l'environnement autour du concept
+
+----
+
+Description: Proche d'une *moodboard*. Permet de décrire tout ce qui inspire le produit, mais sans qu'on voie l'objet. Penser au différents points de contact, au contexte d'utilisation.
+
+----
+
+Imgcredit: Memoir
+
+----
+
+Difficulty: 2
+
+----
+
+Cats: 
+
+----
+
+Categories: app, object, strategy, space, service, interactive
+
+----
+
+Goal: makereal
+
+----
+
+Focus: style
+
+----
+
+Examples: 
+
+- 
+  title: Exemples de moodboards
+  exlink: >
+    https://www.pinterest.com/EclecticTrends/mood-boards/?lp=true
+
+----
+
+Tools: 

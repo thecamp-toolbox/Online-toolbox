@@ -1,0 +1,37 @@
+Title: Wireframes
+
+----
+
+Baseline: Définir les zones d'une application numérique
+
+----
+
+Description: Découpage d'un site ou d'une application par zones. Sans s'intéresser au 'look', on se contente de positionner des blocs.
+
+----
+
+Categories: app
+
+----
+
+Imgcredit: Kim Bieler
+
+----
+
+Difficulty: 3
+
+----
+
+Tools: 
+
+- 
+  title: Balsamiq
+  toollink: ""
+
+----
+
+Goal: makereal
+
+----
+
+Focus: experience

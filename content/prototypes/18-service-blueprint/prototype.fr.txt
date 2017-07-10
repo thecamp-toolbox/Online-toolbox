@@ -1,0 +1,41 @@
+Prevnext: 
+
+----
+
+Title: Service blueprint
+
+----
+
+Baseline: Illustrer la manière dont fonctionne(rait) le service
+
+----
+
+Description: 
+
+----
+
+Imgcredit: Suhasini Jain
+
+----
+
+Cats: 
+
+----
+
+Categories: app, strategy, space, service, interactive
+
+----
+
+Goal: makereal
+
+----
+
+Focus: experience
+
+----
+
+Difficulty: 3
+
+----
+
+Tools: 

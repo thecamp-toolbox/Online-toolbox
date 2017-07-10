@@ -1,0 +1,41 @@
+Prevnext: 
+
+----
+
+Title: Frankenstein
+
+----
+
+Baseline: Mettre en place un service fonctionnel en combinant des  produits existants
+
+----
+
+Description: 
+
+----
+
+Imgcredit: Piecemeal quilts
+
+----
+
+Cats: 
+
+----
+
+Categories: app, service, interactive
+
+----
+
+Goal: test, makereal
+
+----
+
+Focus: market
+
+----
+
+Difficulty: 3
+
+----
+
+Tools: 
