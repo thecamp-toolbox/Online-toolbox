@@ -6,11 +6,20 @@ Title: Landing page
 
 ----
 
-Baseline: Illustrer la page d'accueil de son projet
+Baseline: Construire la page d'accueil de son projet
 
 ----
 
 Description: 
+
+On conçoit la page d'accueil du projet. En se focalisant sur ce qui va intéresser le client / utilisateur et le faire choisir le produit. Permet de générer aussi une forme d'identité graphique (logo, couleurs, etc.).
+Si il est destiné à être montré au grand public (lean startup), prévoir des 'call to action' 
+> ajouter son email pour être tenu au courant du launch / un questionnaire pour récolter des avis / contact form 
++ analytics pour avoir des infos sur les visiteurs 
+Possibilité de faire du A/B testing 
+Pre-orders ((link: https://www.trycelery.com text: Celery))
+
+Le voir comme une étape de validation > contacter les gens qui s'inscrivent / leur demander ce qu'ils attendent etc.
 
 ----
 
@@ -22,7 +31,7 @@ Cats:
 
 ----
 
-Categories: app, object, space, service, interactive
+Categories: app, interactive, object, service, space
 
 ----
 
@@ -39,3 +48,33 @@ Difficulty: 2
 ----
 
 Tools: 
+
+- 
+  title: Mobirise
+  type: "Logiciel de création de site 'drag & drop'"
+  toollink: https://mobirise.com/
+- 
+  title: Strikingly
+  type: Outil en ligne de création de site
+  toollink: https://www.strikingly.com/
+- 
+  title: Carrd
+  type: Outil en ligne de création de site
+  toollink: https://carrd.co/
+- 
+  title: Unbounce
+  type: "Outil en ligne de création de page d'accueil"
+  toollink: https://unbounce.com/
+
+----
+
+Examples: 
+
+- 
+  title: "L'histoire de Buffer"
+  exlink: >
+    https://medium.com/@joelgascoigne/how-to-successfully-validate-your-idea-with-a-landing-page-mvp-ef3c2d02dc51
+
+----
+
+Sources: 

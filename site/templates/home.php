@@ -1,6 +1,8 @@
 <?php snippet('header') ?>
 
-<h1><?php echo $site->title() ?></h1>
+<div class="jumbotron">
+	<h2><?php echo $site->title() ?></h2>
+</div>
 
 <div class="row mt">
 	<?php foreach (page('prototypes')->children()->shuffle()->limit(8) as $p) : ?>
@@ -9,7 +11,7 @@
 </div>
 
 <div class="mt center">
-	<a class="btn btn-default btn-lg" href="/prototypes">Voir tous les types -></a>
+	<a class="btn btn-default" href="/prototypes">Voir tous les types -></a>
 </div>
 
 <?php snippet('footer') ?>

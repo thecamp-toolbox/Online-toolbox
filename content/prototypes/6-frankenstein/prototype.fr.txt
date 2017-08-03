@@ -22,11 +22,11 @@ Cats:
 
 ----
 
-Categories: app, service, interactive
+Categories: app, interactive, service
 
 ----
 
-Goal: test, makereal
+Goal: makereal, test
 
 ----
 
@@ -39,3 +39,16 @@ Difficulty: 3
 ----
 
 Tools: 
+
+----
+
+Examples: 
+
+- 
+  title: "L'histoire du début de Crew"
+  exlink: >
+    https://medium.com/who-what-why/from-a-mailchimp-email-and-wufoo-form-to-25k-in-3-months-c744d79a6e76
+
+----
+
+Sources: 

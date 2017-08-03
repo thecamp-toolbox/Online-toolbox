@@ -25,16 +25,6 @@
 </head>
 <body class="mb">
 
-	<!-- add nav here --> 
+		<?php snippet('nav') ?>
 
-	<div class="container">
-
-		<nav class="navbar navbar-default">
-		  <div class="container-fluid">
-		    <div class="navbar-header">
-		      <a class="navbar-brand" href="<?= $site->url() ?>">
-		        Home
-		      </a>
-		    </div>
-		  </div>
-		</nav>
+		<div class="container">

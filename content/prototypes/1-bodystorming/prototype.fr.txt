@@ -6,33 +6,34 @@ Title: Bodystorming
 
 ----
 
-Baseline: Technique de créativité s'appuyant sur la simulation d'un service
+Baseline: Technique de créativité s'appuyant sur le jeu de rôle
 
 ----
 
 Description: 
 
-À cheval sur la recherche, le prototypage et l'expérimentation. À la fois d'empathie et de créativité. 
-Permet de faire émerger de nouvelles idées par l'expérience physique d'une situation  
+Le bodystorming est une technique mêlant empathie et de créativité, à cheval sur la recherche, le prototypage et l'expérimentation. Elle permet de faire émerger de nouvelles idées par l'expérience physique d'une situation. 
 
-Techniques d'improvisation / improviser des artéfacts 
+L'objectif est de comprendre les relations entre les gens, leur environnement physique et les objets (outils, machines, matériaux, etc.) qu'ils utilisent dans cet environnement, en s'appuyant sur du prototypage léger et des techniques d'improvisation. 
 
-Se concentre sur la manière dont on intéragit avec l'environnement et les choix qu'on fait à l'intérieur. 
+Un des avantages, en testant très rapidement, est qu'on peut tester des idées un peu folles, complexes (ou même impossibles) à prototyper. Et ces expérimentations vont pouvoir alimenter directement la réflexion sur le produit final.  Le bodystorming permet aussi d'impliquer des non-designers de manière active et simple. 
 
-Avantage : on peut tester des idées un peu folles, ou à moitié construites. Peut servir à les alimenter. 
+Déroulé type : 
 
-Cherche à constituer un espace proche de l'espace réel. 
-De quelques heures à quelques minutes pour préparer. 
-Peut se faire en équipe : 
-on design et après, chacune va 'tester' le design de l'autre.
+1. Établir une question ouverte (idéalement, sous la forme 'Comment peux-t-on ?'). 
+1. Réunir un petit groupe (peut intégrer des parties prenantes du projet et des futurs bénéficiaires du projet).
+1. Définir le contexte dans lequel le produit (ou service) sera utilisé. Si possible, aller observer des utilisateurs réels dans ce contexte. 
+1. Identifier la situation précise sur laquelle vous souhaitez travailler. 
+1. Construire les artefacts (prototypes, stands, etc.) qui permettront d'explorer l'idée. Utiliser du carton, du scotch, des dessins, du mobilier existant, ou tout autre élément que vous pourrez trouver. 
+1. Identifier les archétypes (ou personas) importants pour questionner le produit ou le service. Distribuer les rôles (certains pourront simuler un logiciel, un objet, ou tout autre système nécessaire pour simuler l'expérience. 
+1. 'Expérimenter' le service sous forme de jeu de rôle. Tester différents scénarios. Si c'est pertinent, ne pas avoir peur d'improviser de nouvelles situations en fonction des idées qui vous viennent pendant l'expérience.  
+1. Faire un débrief de l'expérience (C'est de ces discussions que pourront ressortir des idées pour le projet). Qu'est-ce que l'activité vous a appris ? Qu'est-ce qui vous a surpris ? 
 
-Permet d'impliquer des non-designers de manière assez facile.
+Quelques conseils : 
 
-Prévoir une phase de débrief importante après : 
-1. What did you learn from the process?
-2. What surprised you about going through the process?
-3. What did you learn from doing this that you couldn't have learned any other way?
-4. How can you see applying this exercise to other design challenges? Give examples...
+- Peut se faire en équipe : on design et après, chacune va 'tester' le design de l'autre.
+- Faire un processus de warm-up au départ avec un exercice physique. 
+- Certains profils de participants peuvent ne pas être à l'aise avec les jeux de rôle et l'improvisation.
 
 ----
 
@@ -62,9 +63,23 @@ Difficulty: 2
 
 Tools: 
 
+- 
+  title: Carton, scotch, etc.
+  type: ""
+  toollink: ""
+
 ----
 
 Examples: 
+
+- 
+  title: Exemple vidéo
+  exlink: >
+    https://www.youtube.com/watch?v=zhi2GnvfNaI
+- 
+  title: 'Etudes de cas - publication'
+  exlink: >
+    https://www.researchgate.net/publication/220141916_Understanding_Contexts_by_Being_There_Case_Studies_in_Bodystorming
 
 ----
 
@@ -74,3 +89,11 @@ Sources:
   title: d-school
   sourcelink: >
     https://dschool-old.stanford.edu/groups/k12/wiki/48c54/Bodystorming.html
+- 
+  title: 'Design research technique : bodystorming'
+  sourcelink: >
+    http://designresearchtechniques.com/casestudies/bodystorming/
+- 
+  title: 'Designing the user experience at Autodesk : Bodystorming'
+  sourcelink: >
+    http://dux.typepad.com/dux/2011/04/uxd-method-11-of-100-bodystorming.html
