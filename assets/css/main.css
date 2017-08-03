@@ -9,7 +9,7 @@
 body {
 	font-family: 'MarkPro', sans-serif;
 	font-size: 15px;
-	background-color: #ededed;
+	background-color: #f9f9f9;
 }
 h3 {
 	margin-top: 10px;
@@ -60,6 +60,10 @@ a.label:hover {
 	background-color: white;
 	background-image: none;
 	box-shadow: none;
+}
+.navbar-default .navbar-nav > .active > a {
+	box-shadow: none;
+	background-image: none;
 }
 .jumbotron {
 	background-color: white;

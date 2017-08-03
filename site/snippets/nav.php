@@ -16,13 +16,8 @@
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
-        <li>
-        	<a href="<?= $site->url() ?>">
-        		Toolbox	
-        	</a>
-        </li>
         <?php foreach ($pages->visible() as $p) : ?>
-          <li>
+          <li class="<?php e($p->isOpen(),'active') ?>">
             <a href="<?= $p->url() ?>">
               <?= $p->title() ?>
             </a>

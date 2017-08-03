@@ -1,0 +1,19 @@
+title: Vocabulary
+pages: false
+files: false 
+fields:
+  title:
+    label: Title
+    type:  text
+  vocab: 
+    label: Vocabulary 
+    type: structure 
+    entry: > 
+      {{title}}
+    fields: 
+      title: 
+        label: Title 
+        type: text
+      answer:
+        label: Description
+        type: textarea

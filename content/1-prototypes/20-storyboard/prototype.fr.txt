@@ -1,0 +1,101 @@
+Prevnext: 
+
+----
+
+Title: Storyboard
+
+----
+
+Baseline: Illustrer en quelques images le parcours d'un utilisateur
+
+----
+
+Description: 
+
+Un storyboard est une description illustrée en quelques images d'une histoire. Ils sont très largement utilisés dans le cinéma, pour préparer les scènes à filmer, mais ils ont aussi leur place dans le design, même si les objectifs sont un peu différents. En design, on se concentre en général sur une toute petite partie d'une expérience globale. La plupart des storyboards de design peuvent donc tenir en très peu (3) de cases (situation / problème > solution > résolution).
+
+Ils peuvent aider à différents niveaux du processus de conception, depuis une situation d'utilisation du service, jusqu'à des détails d'interaction en design d'interface. Selon les projets, les storyboards réalisés pourront servir de base à une vidéo explicative de l'expérience. 
+
+###Avantages  
+
+- Développer de l'empathie, en s'intéressant au parcours d'un utilisateur et en cherchant à se mettre à sa place. 
+- Se focaliser sur le(s) point(s) de contact le(s) plus important(s). Alors qu'au départ d'un projet, on a plutôt tendance à vouloir le décrire dans les moindres détails. 
+- Force à penser les interactions en terme de *flow* (et non une succession d'actions isolées).  
+- Raconter une histoire permet de créer de l'engagement émotionnel autour du projet et fédérer les différents acteurs. 
+
+###Déroulé 
+
+1. Décrire les différents points de contact et choisir la partie de l'expérience à laquelle on veut s'adresser. 
+1. Prendre des notes de manière individuelle pour faire ressortir les points importants (liste et/ou mindmap). 
+1. *Crazy eights* (individuel, encore). Remplir rapidement une feuille A4 séparée en 8 cases. 
+1. Développer sa ou ses idée/s préférée/s sous forme de storyboard en 3 cases. Accompagner chaque case d'une description courte. (individuel, toujours) 
+1. Afficher toutes les idées au mur (en laissant de la place pour pouvoir se déplacer) 
+1. Faire le tour des idées (en silence) et noter les idées favorites (par exemple en y mettant des gommettes de couleur) 
+1. Tour de critique. En prenant 3 minutes par storyboard sélectionné. Les gens commencent par dire ce qu'ils ont aimé et pourquoi ils l'ont choisi et celui qui l'a réalisé ne fait que répondre aux questions. 
+
+###Conseils 
+
+- Utiliser des marqueurs épais, pour que les gens ne s'attachent pas trop à leurs dessins 
+- Le storyboard doit pouvoir être compris tout seul (*standalone*), et pas seulement par les gens présents dans la salle. 
+- Donner un nom à chacun des storyboards. On doit pouvoir être sûr du quel on parle quand on échange.  
+- Selon le moment et l'énergie des participants, faire plusieurs phases de *crazy eight*. 
+- Répéter le processus en entier autant de fois qu'il est nécessaire, sur d'autres parties du parcours ou sur des points plus précis. 
+- Ne pas compter faire plus de deux ou trois cycles comme ça par jour, au risque de brûler les participants.
+
+----
+
+Imgcredit: Gravitytank
+
+----
+
+Cats: 
+
+----
+
+Categories: app, interactive, object, service, space, strategy
+
+----
+
+Goal: show
+
+----
+
+Focus: experience
+
+----
+
+Difficulty: 2
+
+----
+
+Tools: 
+
+- 
+  title: Pixton
+  toollink: https://www.pixton.com/
+- 
+  title: Canva
+  type: Outil en ligne
+  toollink: >
+    https://www.canva.com/create/storyboards/
+
+----
+
+Examples: 
+
+----
+
+Sources: 
+
+- 
+  title: >
+    Le processus de divergence de Google
+    Ventures
+  sourcelink: >
+    https://www.fastcodesign.com/1672917/the-8-steps-to-creating-a-great-storyboard
+- 
+  title: >
+    Storyboarding in the software design
+    process
+  sourcelink: >
+    https://uxmag.com/articles/storyboarding-in-the-software-design-process
