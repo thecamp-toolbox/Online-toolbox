@@ -6,7 +6,6 @@
     font-family: MarkProMedium;
     src: url("../fonts/FF-Mark/MarkPro-Medium.otf") format("opentype");
 }
-
 body {
 	font-family: 'MarkPro', sans-serif;
 	font-size: 15px;
@@ -61,6 +60,9 @@ a.label:hover {
 	background-color: white;
 	background-image: none;
 	box-shadow: none;
+}
+.jumbotron {
+	background-color: white;
 }
 .thumbnail {
 	box-shadow: none;

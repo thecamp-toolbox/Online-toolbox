@@ -10,7 +10,49 @@ Baseline: Illustrer en quelques images le parcours d'un utilisateur
 
 ----
 
-Description: En général, il est plus facile de se concentrer sur une partie spécifique du parcours. Et la plupart des storyboards peuvent donc tenir en très peu de cases (situation, problème, solution, résolution).
+Description: 
+
+Être clair si c'est une méthode de divergence ou de convergence. Est-ce qu'on l'utilise pour générer des idées ou pour synthétiser un concept. 
+
+Les gens auront tendance à vouloir décrire le projet en entier. 
+
+Peut faire peur quand on imagine les storyboards du cinéma très précis. Mais pas besoin de savoir dessiner. 
+
+Raconter une histoire > créer de l'engagement autour du projet. 
+Force à générer de l'empathie > se mettre à la place d'un utilisateur 
+
+En général, il est plus facile de se concentrer sur une partie spécifique du parcours. Et la plupart des storyboards peuvent donc tenir en très peu de cases (situation, problème, solution, résolution).
+
+Utiliser des marqueurs épais, pour que les gens ne s'attachent pas trop à leurs dessins 
+
+En convergence : en amont / préparer une vidéo explicative. 
+
+Peut ensuite mener à une vidéo du scénario illustré. 
+
+###Déroulé 
+
+1. Choisir la partie du problème à laquelle on veut s'adresser. 
+1. Prendre des notes de manière individuelle pour faire ressortir les points importants. 
+1. Mindmap (individuel). 
+1. *Crazy eights* (individuel, encore). Remplir une feuille A4 séparée en 8 cases. 
+1. Développer la ou les idées préférées sous forme de storyboard en 3 cases. (individuel, toujours) 
+1. Afficher toutes les idées au mur (en laissant de la place pour pouvoir se déplacer) 
+1. Faire le tour des idées (en silence) et noter les idées favorites (par exemple en y mettant des gommettes de couleur) 
+1. Tour de critique. En prenant 3 minutes par storyboard sélectionné. Les gens commencent par dire ce qu'ils ont aimé et pourquoi ils l'ont choisi 
+
+###Conseils 
+
+- Le storyboard doit pouvoir être compris tout seul (*standalone*), et pas seulement par les gens présents dans la salle. 
+- Donner un nom à chacun des storyboards. On doit pouvoir être sûr du quel on parle quand on échange.  
+- Les garder anonymes. Savoir qui a fait quoi risque d'influencer le jugement. 
+- Selon le moment et l'énergie des participants, faire plusieurs phases de *crazy eight*. 
+- Répéter le processus en entier autant de fois qu'il est nécessaire, sur d'autres parties du parcours ou sur des points plus précis. 
+- Ne pas compter faire plus de deux ou trois cycles comme ça par jour, au risque de brûler les participants. 
+- Limiter le nombre de cases (en général, 3 cases sont suffisantes). 
+
+La méthode de storyboard a plusieurs utilisations. Il peut faciliter les processus de conception de produits et de services. Les storyboards peuvent illustrer une histoire visuelle d'une situation de service ou de produit dans son contexte pour les utilisateurs et les clients ou ils peuvent aider à illustrer les interactions d'interface pour l'équipe de conception ou les utilisateurs.
+
+Le processus de création d'un storyboard aide les concepteurs à se mettre dans la chaussure et le réglage des personnes pour lesquelles ils conçoivent. Cela conduit souvent à l'invention et à l'ingéniosité, car les problèmes rencontrés par les utilisateurs finals sont reconnus et les opportunités de les résoudre sont conçues. L'histoire peut servir de "test d'expérience utilisateur", car les prototypes sont développés et critiqués. Prenez un projet de conception pour le système, et parcourez l'histoire en imaginant le protagoniste en l'utilisant. Le système résout-il les problèmes rencontrés par le prota- nistant? Est-ce «adapté» à l'histoire et à l'environnement du protagoniste? La solution fournit-elle la valeur voulue aux personnes dans l'histoire? Quels changements dans le système devrait être fait de sorte qu'il le fait? (Gruen 2000)
 
 ----
 
@@ -22,7 +64,7 @@ Cats:
 
 ----
 
-Categories: app, object, strategy, space, service, interactive
+Categories: app, interactive, object, service, space, strategy
 
 ----
 
@@ -43,3 +85,29 @@ Tools:
 - 
   title: Pixton
   toollink: https://www.pixton.com/
+- 
+  title: Canva
+  type: Outil en ligne
+  toollink: >
+    https://www.canva.com/create/storyboards/
+
+----
+
+Examples: 
+
+----
+
+Sources: 
+
+- 
+  title: >
+    Le processus de divergence de Google
+    Ventures
+  sourcelink: >
+    https://www.fastcodesign.com/1672917/the-8-steps-to-creating-a-great-storyboard
+- 
+  title: >
+    Storyboarding in the software design
+    process
+  sourcelink: >
+    https://uxmag.com/articles/storyboarding-in-the-software-design-process

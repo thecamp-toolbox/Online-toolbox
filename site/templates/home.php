@@ -11,7 +11,7 @@
 </div>
 
 <div class="mt center">
-	<a class="btn btn-default" href="/prototypes">Voir tous les types -></a>
+	<a class="btn btn-default" href="/prototypes"><?= l::get('seeall') ?> <i class="fa fa-arrow-right"></i></a>
 </div>
 
 <?php snippet('footer') ?>

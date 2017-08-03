@@ -21,6 +21,13 @@
         		Toolbox	
         	</a>
         </li>
+        <?php foreach ($pages->visible() as $p) : ?>
+          <li>
+            <a href="<?= $p->url() ?>">
+              <?= $p->title() ?>
+            </a>
+          </li>
+        <?php endforeach ?>
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li>

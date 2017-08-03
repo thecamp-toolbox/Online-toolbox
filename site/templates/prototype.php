@@ -11,7 +11,7 @@
 				<img class="img-responsive hidden-img" src="<?php echo $page->images()->first()->url() ?>"> 
 			</div>
 			<?php if ($page->imgcredit() != '') : ?>
-				<em>Crédit image : <?= $page->imgcredit() ?></em>
+				<em><?= l::get('imgcredit') ?>: <?= $page->imgcredit() ?></em>
 			<?php endif ?>
 			
 			<!-- Documents en téléchargement -->
@@ -26,7 +26,7 @@
 
 			<!-- Examples (liens) -->
 			<?php if ($page->examples() != '') : ?>
-				<h4 class="mt">Exemples</h4>
+				<h4 class="mt"><?= l::get('examples') ?></h4>
 					<ul class="sidebar">
 					<?php foreach ($page->examples()->toStructure() as $ex) : ?>
 						<li>
@@ -40,7 +40,7 @@
 
 			<!-- Outils (liens) -->
 			<?php if ($page->tools() != '') : ?>
-				<h4 class="mt">Outils</h4>
+				<h4 class="mt"><?= l::get('tools') ?></h4>
 				<ul class="sidebar">
 					<?php foreach ($page->tools()->toStructure() as $tool) : ?>
 					<li>
@@ -49,6 +49,20 @@
 							<?php if ($tool->type() != '') : ?>
 							 (<?= $tool->type() ?>)
 							<?php endif ?>
+						</a>
+					</li>
+					<?php endforeach ?>
+				</ul>
+			<?php endif ?> 
+
+			<!-- Outils (liens) -->
+			<?php if ($page->sources() != '') : ?>
+				<h4 class="mt"><?= l::get('references') ?></h4>
+				<ul class="sidebar">
+					<?php foreach ($page->sources()->toStructure() as $sou) : ?>
+					<li>
+						<a href="<?= $sou->sourcelink() ?>" target="_blank">
+							<?= $sou->title() ?> 
 						</a>
 					</li>
 					<?php endforeach ?>
@@ -109,19 +123,16 @@
 	</div>
 </div>
 
-<div class="clearfix"></div>
-
-
-	<!-- Navigation -->
-	<nav class="bmt">
-	    <ul class="pager">
-	      <?php if($prev = $page->prevVisible()): ?>
-	        <li class="previous"><a href="<?= $prev->url() ?>"><span aria-hidden="true">&larr;</span> <?= $prev->title() ?></a></li>
-	      <?php endif ?>
-	      <?php if($next = $page->nextVisible()): ?>
-	        <li class="next"><a href="<?= $next->url() ?>"><?= $next->title() ?> <span aria-hidden="true">&rarr;</span></a></li>
-	      <?php endif ?>
-	    </ul>
-	</nav>
+<!-- Navigation -->
+<nav class="bmt">
+    <ul class="pager">
+      <?php if($prev = $page->prevVisible()): ?>
+        <li class="previous"><a href="<?= $prev->url() ?>"><span aria-hidden="true">&larr;</span> <?= $prev->title() ?></a></li>
+      <?php endif ?>
+      <?php if($next = $page->nextVisible()): ?>
+        <li class="next"><a href="<?= $next->url() ?>"><?= $next->title() ?> <span aria-hidden="true">&rarr;</span></a></li>
+      <?php endif ?>
+    </ul>
+</nav>
 
 <?php snippet('footer') ?>
