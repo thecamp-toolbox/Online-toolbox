@@ -6,7 +6,7 @@ Title: Bodystorming
 
 ----
 
-Baseline: Technique de créativité s'appuyant sur le jeu de rôle
+Baseline: Technique de créativité basée sur le jeu de rôle
 
 ----
 
@@ -18,7 +18,7 @@ L'objectif est de comprendre les relations entre les gens, leur environnement ph
 
 Un des avantages, en testant très rapidement, est qu'on peut tester des idées un peu folles, complexes (ou même impossibles) à prototyper. Et ces expérimentations vont pouvoir alimenter directement la réflexion sur le produit final.  Le bodystorming permet aussi d'impliquer des non-designers de manière active et simple. 
 
-Déroulé type : 
+###Déroulé 
 
 1. Établir une question ouverte (idéalement, sous la forme 'Comment peux-t-on ?'). 
 1. Réunir un petit groupe (peut intégrer des parties prenantes du projet et des futurs bénéficiaires du projet).
@@ -29,9 +29,10 @@ Déroulé type :
 1. 'Expérimenter' le service sous forme de jeu de rôle. Tester différents scénarios. Si c'est pertinent, ne pas avoir peur d'improviser de nouvelles situations en fonction des idées qui vous viennent pendant l'expérience.  
 1. Faire un débrief de l'expérience (C'est de ces discussions que pourront ressortir des idées pour le projet). Qu'est-ce que l'activité vous a appris ? Qu'est-ce qui vous a surpris ? 
 
-Quelques conseils : 
+###Conseils 
 
-- Peut se faire en équipe : on design et après, chacune va 'tester' le design de l'autre.
+- On peut diviser le groupe en plusieurs équipes : on design et après, chacune va 'tester' le design d'une autre équipe. 
+- Limiter à 8 le nombre de participants dans une équipe 
 - Faire un processus de warm-up au départ avec un exercice physique. 
 - Certains profils de participants peuvent ne pas être à l'aise avec les jeux de rôle et l'improvisation.
 

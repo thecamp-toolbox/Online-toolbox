@@ -52,7 +52,7 @@ Selon la nature du projet, il est nécessaire d'approfondir une partie ou une au
 - Barrières psychologiques (et comment les lever) 
 - Mentors et aviseurs 
 
-Quelques conseils pour mettre toutes les chances de son côté : 
+###Conseils
 
 - Se limiter à une idée par slide (et ne pas développer les idées dessus) 
 - Présenter le minimum possible d'informations (mais être prêt à répondre à tout et à justifier chacun des points) 

@@ -28,7 +28,7 @@ Mais en général, on trouve deux grandes catégories :
 1. une composition réunissant différentes images de référence (sur ordinateur ou  sur une feuille de papier) 
 1. une composition physique réunissant des objets physiques pris en photo (voir image d'illustration) 
 
-Processus de travail : 
+###Déroulé
 
 1. Commencer par lister des adjectifs associés au projet 
 1. Collecter plein de choses (trop) 
@@ -36,7 +36,7 @@ Processus de travail :
 1. Affiner le tri et les catégories 
 1. Faire une composition pour chaque catégorie 
 
-Quelques conseils : 
+###Conseils 
 
 - Pinterest peut être un bon outil de collecte, mais pas n'est pas idéal pour synthétiser. Il ne permet pas de 'finir' la sélectione et elle reste ouverte. 
 - Aller chercher au-delà du champ de base du projet. Les parallèles, ou les métaphores peuvent amener des inspirations intéressantes. 

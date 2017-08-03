@@ -7,7 +7,9 @@
 	<div class="row">
 
 		<div class="col-md-4 mt"> <!-- Sidebar --> 
-			<img class="img-responsive" src="<?php echo $page->images()->first()->url() ?>"> 
+			<div class="the-cover" style="background-image:url('<?php echo $page->images()->first()->url() ?>')">
+				<img class="img-responsive hidden-img" src="<?php echo $page->images()->first()->url() ?>"> 
+			</div>
 			<?php if ($page->imgcredit() != '') : ?>
 				<em>Crédit image : <?= $page->imgcredit() ?></em>
 			<?php endif ?>
@@ -56,7 +58,7 @@
 
 		<div class="col-md-8"> <!-- Colonne principale de contenu -->
 			<?php $diff = $page->difficulty()->int() ?>
-			<h1><?= $page->title()->html() ?> <?php snippet('stars', array('diff' => $diff)) ?></h1>
+			<h2><?= $page->title()->html() ?> <?php snippet('stars', array('diff' => $diff)) ?></h2>
 			<?php if ($page->baseline() != '') : ?>
 				<h3><?= $page->baseline() ?></h3>
 			<?php endif ?>
@@ -96,14 +98,20 @@
 				<?= $page->description()->kirbytext() ?>
 			<?php endif ?>
 
-			
-
 		</div><!-- fin column -->
 
 	</div>
+
+	<div id="close"> <!-- Bouton pour retour -->
+		<a href="<?= $page->parent()->url() ?>">
+			✖
+		</a>
+	</div>
 </div>
 
-<div class="container">
+<div class="clearfix"></div>
+
+
 	<!-- Navigation -->
 	<nav class="bmt">
 	    <ul class="pager">
@@ -115,6 +123,5 @@
 	      <?php endif ?>
 	    </ul>
 	</nav>
-</div>
 
 <?php snippet('footer') ?>
