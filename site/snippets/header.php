@@ -16,7 +16,9 @@
 	<!-- Font Awesome -->
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 
-	<?php echo css('assets/css/main.css') ?>
+	<?= css('assets/css/main.css') ?>
+
+	<?= css('assets/plugins/embed/css/embed.css') ?>
 
 	<link rel="icon" type="image/png" href="<?= $site->url() ?>/assets/images/favicon.png">
 

@@ -6,11 +6,47 @@ Title: Product collage
 
 ----
 
-Baseline: Décrire l'environnement autour du concept
+Baseline: L'environnement d'inspiration autour du concept
 
 ----
 
-Description: Proche d'une *moodboard*. Permet de décrire tout ce qui inspire le produit, mais sans qu'on voie l'objet. Penser au différents points de contact, au contexte d'utilisation.
+Description: 
+
+Le *product collage* (ou *moodboard*) permet de décrire tout ce qui inspire le projet, mais sans qu'on voie l'objet. Les moodboards ne sont pas réservées au design d'intérieur ou à la mode et sont pratiques pour dessiner l'environnement d'un projet sans le développer du tout. 
+
+Plus précisément, le collage permet d'aider à :
+
+- Synthétiser une idée 
+- Traduire un concept au delà des mots (qui peuvent prêter à interprétation) 
+- Construire un imaginaire partagé autour du projet, pour les parties prenantes (équipe, client, etc.) et donc à limiter les déceptions lors des premiers prototypes 
+- Poser l'esprit du projet (grand public ? sérieux ? Exclusif ?) 
+
+Il n'existe pas vraiment de standard dans la réalisation de *moodboards*. Certains vont aller jusqu'à des guides de style ou une charte graphique qui va définir tous les éléments visuels du projet. D'autres vont se contenter d'assembler 5 ou 6 images. 
+
+Mais en général, on trouve deux grandes catégories : 
+
+1. une composition réunissant différentes images de référence (sur ordinateur ou  sur une feuille de papier) 
+1. une composition physique réunissant des objets physiques pris en photo (voir image d'illustration) 
+
+Processus de travail : 
+
+1. Commencer par lister des adjectifs associés au projet 
+1. Collecter plein de choses (trop) 
+1. Réunir tous les éléments et les classer dans différentes catégories 
+1. Affiner le tri et les catégories 
+1. Faire une composition pour chaque catégorie 
+
+Quelques conseils : 
+
+- Pinterest peut être un bon outil de collecte, mais pas n'est pas idéal pour synthétiser. Il ne permet pas de 'finir' la sélectione et elle reste ouverte. 
+- Aller chercher au-delà du champ de base du projet. Les parallèles, ou les métaphores peuvent amener des inspirations intéressantes. 
+- Penser au contexte d'utilisation et aux différents points de contact.
+- Il n'est pas interdit de mettre du texte, mais il vaut mieux rester concis (mots clés).  
+- Pensez aux palettes de couleur, aux polices de caractère, aux matières associées. 
+- Ne pas avoir peur d'en faire plusieurs. Si un collage réunit trop d'éléments différents, ne pas hésiter à les séparer et affiner les sujets. 
+- Si elle est physique, ne pas avoir peur de mettre les mains dans le cambouis (découper, coller, etc.). 
+- Dans le cas d'une photo, prendre un bon appareil et faire attention à l'éclairage. 
+- Lors de la présentation, ne pas chercher à tout expliquer (elles doivent parler d'elles-mêmes).
 
 ----
 
@@ -26,7 +62,7 @@ Cats:
 
 ----
 
-Categories: app, object, strategy, space, service, interactive
+Categories: app, interactive, object, service, space, strategy
 
 ----
 
@@ -48,3 +84,34 @@ Examples:
 ----
 
 Tools: 
+
+- 
+  title: Go Moodbaords
+  type: 'Outil en ligne - sans compte'
+  toollink: http://www.gomoodboard.com/
+- 
+  title: Photoshop
+  type: Logiciel
+  toollink: http://www.photoshop.com/
+- 
+  title: Canva
+  type: Outil en ligne
+  toollink: >
+    https://www.canva.com/create/mood-boards/
+- 
+  title: Sampleboard
+  type: 'Outil en ligne - essai gratuit'
+  toollink: http://www.sampleboard.com/
+
+----
+
+Sources: 
+
+- 
+  title: 24 conseils pour créer des moodboards
+  sourcelink: >
+    http://www.creativebloq.com/graphic-design/mood-boards-812470
+- 
+  title: Comment faire une moodboard ?
+  sourcelink: >
+    https://designschool.canva.com/blog/make-a-mood-board/

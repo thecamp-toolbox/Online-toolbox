@@ -81,3 +81,15 @@ fields:
       toollink:
         label: Link
         type: url 
+  sources:
+    label: Sources
+    type: structure
+    entry: > 
+      {{title}}
+    fields: 
+      title: 
+        label: Title 
+        type: text
+      sourcelink:
+        label: Link
+        type: url 

@@ -12,6 +12,28 @@ Baseline: Technique de créativité s'appuyant sur la simulation d'un service
 
 Description: 
 
+À cheval sur la recherche, le prototypage et l'expérimentation. À la fois d'empathie et de créativité. 
+Permet de faire émerger de nouvelles idées par l'expérience physique d'une situation  
+
+Techniques d'improvisation / improviser des artéfacts 
+
+Se concentre sur la manière dont on intéragit avec l'environnement et les choix qu'on fait à l'intérieur. 
+
+Avantage : on peut tester des idées un peu folles, ou à moitié construites. Peut servir à les alimenter. 
+
+Cherche à constituer un espace proche de l'espace réel. 
+De quelques heures à quelques minutes pour préparer. 
+Peut se faire en équipe : 
+on design et après, chacune va 'tester' le design de l'autre.
+
+Permet d'impliquer des non-designers de manière assez facile.
+
+Prévoir une phase de débrief importante après : 
+1. What did you learn from the process?
+2. What surprised you about going through the process?
+3. What did you learn from doing this that you couldn't have learned any other way?
+4. How can you see applying this exercise to other design challenges? Give examples...
+
 ----
 
 Imgcredit: Unsworn Industries
@@ -22,11 +44,11 @@ Cats:
 
 ----
 
-Categories: app, strategy, space, service, interactive
+Categories: app, interactive, service, space, strategy
 
 ----
 
-Goal: test, makereal
+Goal: makereal, test
 
 ----
 
@@ -39,3 +61,16 @@ Difficulty: 2
 ----
 
 Tools: 
+
+----
+
+Examples: 
+
+----
+
+Sources: 
+
+- 
+  title: d-school
+  sourcelink: >
+    https://dschool-old.stanford.edu/groups/k12/wiki/48c54/Bodystorming.html

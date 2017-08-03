@@ -6,11 +6,65 @@ Title: Pitchdeck
 
 ----
 
-Baseline: Faire comprendre simplement une proposition de service
+Baseline: Faire comprendre une proposition de service en quelques slides
 
 ----
 
 Description: 
+
+Le pitchdeck est devenu un outil de base du mouvement startup. Il a, à certains égards, presque remplacé le business plan. 
+
+L'objectif de base du pitchdeck est de convaincre le lecteur que : 
+ 
+- Le besoin existe (marché)  
+- La proposition de valeur est pertinente (produit) 
+- Il y a déjà un intérêt (traction) 
+- Les compétences nécessaires sont réunies (équipe) 
+
+Il s'appuie, en général, sur un douzaine de slides et se concentre sur les informations les plus importantes. Il va droit au but, en offrant une structure de raisonnement logique et permet de raconter une histoire engageante. Sa présentation ne doit pas durer plus de 15 minutes, et idéalement, moins de 10. Il sert principalement de support de présentation, mais peut-être aussi être envoyé directement par mail. Le format standard est le PDF, mais on peut aussi le faire en ligne. 
+
+Le pitchdeck est d'abord destiné à des investisseurs potentiels et sert de support pour une première rencontre, qui mènera ensuite - si tout se passe bien - à une présentation 'plénière' qui pourra durer une heure. Mais il peut être intéressant d'en faire un même si on n'est pas en recherche de financement, car Il permet de forcer une équipe à synthétiser ses idées et à mettre en valeur les points importants. 
+
+On peut résumer une structure 'de base' ainsi (10 slides) : 
+
+1. Couverture (logo et nom des intervenants)
+1. Le problème : Qu'est-ce qu'on cherche à résoudre ? 
+1. Le marché : Combien de gens ça représente ? 
+1. La solution : Comment prévoit-on de répondre au besoin ?  
+1. Le produit : Comment ça fonctionne ? 
+1. Modèle d'affaire : Comment on fait de l'argent ? 
+1. Adoption : Est-ce qu'il y a de l'intérêt ?   
+1. Équipe : Pourquoi nous sommes les meilleurs pour répondre à cet enjeu ? 
+1. Passage à l'action (*Call to action*) : qu'est-ce qu'on attend du lecteur ? 
+1. Remerciement et contact
+
+Selon la nature du projet, il est nécessaire d'approfondir une partie ou une autre. On pourra notamment parler de : 
+
+- Propriété intellectuelle  (et protection contre les copies)
+- Environnement concurrentiel (et avantages du produit)
+- Grille de tarifs 
+- Retours utilisateurs (verbatim)
+- Partenariats en court ou envisagés 
+- Problématiques légales potentielles 
+- Besoins de financement (et pourquoi maintenant)  
+- Point d'équilibre (break-even) envisagé 
+- Prochaines étapes (milestones) 
+- Barrières psychologiques (et comment les lever) 
+- Mentors et aviseurs 
+
+Quelques conseils pour mettre toutes les chances de son côté : 
+
+- Se limiter à une idée par slide (et ne pas développer les idées dessus) 
+- Présenter le minimum possible d'informations (mais être prêt à répondre à tout et à justifier chacun des points) 
+- Utiliser des mots simples (même si le sujet est complexe) 
+- Proposer une action à la fin (quelle est la prochaine étape ?) 
+- Garder une consistance visuelle à travers toute la présentation (couleurs, polices, etc.) 
+- Éviter les outils qui sortent trop du lot / demandent d'installer des outils spécifiques : Prezzi. 
+- Faire attention à la taille du fichier 
+
+Voici le pitchdeck qui a permis à AirBnb de faire leur première levée de fonds, en 2008 :  
+
+(embed: https://www.slideshare.net/udmitry/airbnb-original-deck-2008)
 
 ----
 
@@ -22,7 +76,7 @@ Cats:
 
 ----
 
-Categories: app, object, strategy, space, service, interactive
+Categories: app, interactive, object, service, space, strategy
 
 ----
 
@@ -39,3 +93,33 @@ Difficulty: 1
 ----
 
 Tools: 
+
+- 
+  title: Powerpoint
+  type: Logiciel
+  toollink: ""
+- 
+  title: Ptichdeck.io
+  type: Outil en ligne
+  toollink: https://pitchdeck.io/
+- 
+  title: Slides.com
+  type: Outil en ligne
+  toollink: https://slides.com/
+
+----
+
+Examples: 
+
+- 
+  title: Exemples de pitchdecks
+  exlink: https://attach.io/startup-pitch-decks/
+
+----
+
+Sources: 
+
+- 
+  title: What is a pitchdeck?
+  sourcelink: >
+    https://pitchdeck.improvepresentation.com/what-is-a-pitch-deck
