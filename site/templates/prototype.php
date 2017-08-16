@@ -70,8 +70,7 @@
 
 
 	  <div class="card"> <!-- carte de droite -->
-
-
+	  
 	    <div class="card-body">
 
 	    <!-- Dans le futur, mettre : https://getbootstrap.com/docs/4.0/components/card/#navigation Pour commentaires etc. -->
@@ -124,8 +123,9 @@
 				✖
 			</a>
 		</div>
-	</div>
-</div>
+
+	</div> <!-- fin card right -->
+</div> <!-- fin card group -->
 
 <!-- Navigation -->
 <div class="bmt">

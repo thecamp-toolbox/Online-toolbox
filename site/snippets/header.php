@@ -24,4 +24,12 @@
 
 		<?php snippet('nav') ?>
 
+		<?php if ($page->template() == 'home') : ?>
+			<div class="jumbotron text-center bg-white">
+				<div class="container">
+					<h2><?php echo $site->title() ?></h2>
+				</div>
+			</div>
+		<?php endif ?>
+
 		<div class="container">

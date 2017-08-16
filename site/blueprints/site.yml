@@ -15,6 +15,6 @@ fields:
     label: Description
     type:  textarea
     
-  copyright:
-    label: Copyright
-    type:  textarea
+  footer:
+    label: Footer
+    type:  text

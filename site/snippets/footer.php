@@ -9,7 +9,7 @@
 				</a>
 			</div>
 			<div class="col-sm-4 right">
-				Code disponible sur Github
+				<?= $site->footer() ?>
 			</div>
 		</div>
 	</div>

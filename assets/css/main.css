@@ -8,7 +8,7 @@
 }
 body {
 	font-family: 'MarkPro', sans-serif;
-	background-color: #fefeff;
+	background-color: #f9f9f9;;
 }
 h3 {
 	margin-top: 10px;
@@ -39,6 +39,10 @@ a:hover {
 }
 .ml {
 	margin-left: 5px;
+}
+.navbar {
+	border-bottom: solid 1px rgba(0,0,0,.125);
+	border-top: solid 1px rgba(0,0,0,.125);
 }
 .badge {
 	margin-right: 5px;
@@ -101,10 +105,6 @@ a:hover {
 .btn-default {
 	background-image: none;
 }
-ul.sidebar {
-	list-style-type: none;
-	padding-left: 0px;
-}
 ul.checklist {
 	list-style-type: none; 
 	padding-left: 20px;
@@ -118,7 +118,10 @@ ul.checklist {
 .card {
 	position: relative;
 }
-
+ul.sidebar {
+	list-style-type: none;
+	padding-left: 10px;
+}
 
 /* Break points */
 @media (min-width: 576px) {
