@@ -85,11 +85,11 @@ Cats:
 
 ----
 
-Categories: app, object, strategy, space, service, interactive
+Categories: app, interactive, object, service, space, strategy
 
 ----
 
-Goal: show, makereal
+Goal: makereal, show
 
 ----
 
@@ -189,3 +189,11 @@ Examples:
   title: Time flies
   exlink: >
     https://www.youtube.com/watch?v=BzmxKbgnScI
+- 
+  title: Understanding temporary use
+  exlink: >
+    https://refillthecity.wordpress.com/more-about-refill/temporary-use-for-dummies/
+
+----
+
+Sources: 

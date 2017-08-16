@@ -5,7 +5,7 @@
 <?php foreach ($page->vocab()->toStructure() as $vocab) : ?>
 	<hr>
 	<h3><?= $vocab->title() ?></h3>
-	<?= $vocab->answer() ?>
+	<?= $vocab->answer()->kirbytext() ?>
 <?php endforeach ?>
 
 <?php snippet('footer') ?>

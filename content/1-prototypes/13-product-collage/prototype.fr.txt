@@ -86,6 +86,10 @@ Examples:
 Tools: 
 
 - 
+  title: Milanote
+  type: Outil en ligne de notes visuelles
+  toollink: https://www.milanote.com/
+- 
   title: Go Moodbaords
   type: 'Outil en ligne - sans compte'
   toollink: http://www.gomoodboard.com/
