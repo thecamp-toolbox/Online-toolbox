@@ -20,11 +20,15 @@
 	<div class="col-md-6">
 		<ul class="nav nav-pills mt">
 			<?php $goals = page('goals')->children() ?>
-			<li role="presentation" class="disabled"><a href="#"><?= page('goals')->title().' :' ?></a></li>
-			<li role="presentation" class="<?php echo $noGoal ?>"><a href="<?= $site->url().'/prototypes' ?>">Tous</a></li>
+			<li class="nav-item">
+				<a class="nav-link disabled" href="#"><?= page('goals')->title().' :' ?></a>
+			</li>
+			<li class="nav-item">
+				<a class="nav-link <?php echo $noGoal ?>" href="<?= $site->url().'/prototypes' ?>">Tous</a>
+			</li>
 			<?php foreach ($goals as $g) : ?>
-				<li role="presentation" class="<?php if ($goal == $g->uid()) {echo 'active';} ?>">
-					<a href="<?= $page->url() ?>/goal:<?= $g->uid() ?>">
+				<li class="nav-item">
+					<a class="nav-link <?php if ($goal == $g->uid()) {echo 'active';} ?>" href="<?= $page->url() ?>/goal:<?= $g->uid() ?>">
 						<?= $g->title() ?>
 					</a>
 				</li>
@@ -35,11 +39,15 @@
 	<div class="col-md-6">
 		<ul class="nav nav-pills mt">
 			<?php $focuses = page('focuses')->children() ?>
-			<li role="presentation" class="disabled"><a href="#"><?= page('focuses')->title().' :' ?></a></li>
-			<li role="presentation" class="<?php echo $noFocus ?>"><a href="<?= $site->url().'/prototypes' ?>">Tous</a></li>
+			<li class="nav-item">
+				<a class="nav-link disabled" href="#"><?= page('focuses')->title().' :' ?></a>
+				</li>
+			<li class="nav-item">
+				<a class="nav-link <?php echo $noFocus ?>" href="<?= $site->url().'/prototypes' ?>">Tous</a>
+			</li>
 			<?php foreach ($focuses as $f) : ?>
-				<li role="presentation" class="<?php if ($focus == $f->uid()) {echo 'active';} ?>">
-					<a href="<?= $page->url() ?>/focus:<?= $f->uid() ?>">
+				<li class="nav-item">
+					<a class="nav-link <?php if ($focus == $f->uid()) {echo 'active';} ?>" href="<?= $page->url() ?>/focus:<?= $f->uid() ?>">
 						<?= $f->title() ?>
 					</a>
 				</li>
@@ -67,7 +75,7 @@
 
 <div class="row mt">
 	<?php foreach ($prototypes->sortBy('difficulty', 'asc') as $p) : ?>
-		<?php snippet('prototype-item', array('p' => $p)) ?>
+		<?php snippet('prototype-card', array('p' => $p)) ?>
 	<?php endforeach ?>
 </div>
 

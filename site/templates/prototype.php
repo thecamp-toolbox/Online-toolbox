@@ -1,19 +1,16 @@
 <?php snippet('header') ?>
 
 
-
-<div class="card mt">
-
-	<div class="row">
-
-		<div class="col-md-4 mt"> <!-- Sidebar --> 
-			<div class="the-cover" style="background-image:url('<?php echo $page->images()->first()->url() ?>')">
-				<img class="img-responsive hidden-img" src="<?php echo $page->images()->first()->url() ?>"> 
-			</div>
-			<?php if ($page->imgcredit() != '') : ?>
-				<em><?= l::get('imgcredit') ?>: <?= $page->imgcredit() ?></em>
+<div class="card-group bmt">
+	<div class="card left-card"> <!-- carte de gauche -->
+		<div class="the-cover card-img-top" style="background-image:url('<?php echo $page->images()->first()->url() ?>')">
+			<img class="img-fluid hidden-img" src="<?php echo $page->images()->first()->url() ?>"> 
+		</div>
+	    <div class="card-body">
+	    	<?php if ($page->imgcredit() != '') : ?>
+				<p class="card-text"><small class="text-muted"><?= l::get('imgcredit') ?>: <?= $page->imgcredit() ?></small></p>
 			<?php endif ?>
-			
+
 			<!-- Documents en téléchargement -->
 			<?php if ($page->hasDocuments()) : ?>
 				<h4 class="mt">Téléchargement(s)</h4>
@@ -68,11 +65,20 @@
 					<?php endforeach ?>
 				</ul>
 			<?php endif ?> 
-		</div>
+	    </div> <!-- Fin card-body -->
+	  </div> <!-- Fin card -->
 
-		<div class="col-md-8"> <!-- Colonne principale de contenu -->
-			<?php $diff = $page->difficulty()->int() ?>
+
+	  <div class="card"> <!-- carte de droite -->
+
+
+	    <div class="card-body">
+
+	    <!-- Dans le futur, mettre : https://getbootstrap.com/docs/4.0/components/card/#navigation Pour commentaires etc. -->
+
+	 	   <?php $diff = $page->difficulty()->int() ?>
 			<h2><?= $page->title()->html() ?> <?php snippet('stars', array('diff' => $diff)) ?></h2>
+
 			<?php if ($page->baseline() != '') : ?>
 				<h3><?= $page->baseline() ?></h3>
 			<?php endif ?>
@@ -82,7 +88,7 @@
 				<?php foreach ($page->categories()->split() as $cat) : ?>
 					<?php $thecat = page('typologies')->children()->find($cat) ?>
 					<a href="<?= $site->url().'/prototypes/cat:'.$cat ?>">
-						<span class="label label-default"><?= $thecat->title() ?></span>
+						<span class="badge badge-secondary"><?= $thecat->title() ?></span>
 					</a>
 				<?php endforeach ?>
 			<?php endif ?>
@@ -92,7 +98,7 @@
 				<?php foreach ($page->goal()->split() as $goal) : ?>
 					<?php $thegoal = page('goals')->children()->find($goal) ?>
 					<a href="<?= $site->url().'/prototypes/goal:'.$goal ?>">
-						<span class="label label-primary"><?= $thegoal->title() ?></span>
+						<span class="badge badge-primary"><?= $thegoal->title() ?></span>
 					</a>
 				<?php endforeach ?>
 			<?php endif ?>
@@ -102,37 +108,41 @@
 				<?php foreach ($page->focus()->split() as $focus) : ?>
 					<?php $thefocus = page('focuses')->children()->find($focus) ?>
 					<a href="<?= $site->url().'/prototypes/focus:'.$focus ?>">
-						<span class="label label-info"><?= $thefocus->title() ?></span>
+						<span class="badge badge-info"><?= $thefocus->title() ?></span>
 					</a>
 				<?php endforeach ?>
 			<?php endif ?>
 
 			<hr>
-			<?php if ($page->description() != '') : ?>
-				<?= $page->description()->kirbytext() ?>
-			<?php endif ?>
 
-		</div><!-- fin column -->
+	      	<p class="card-text"><?= $page->description()->kirbytext() ?></p>
+	    
+	    </div>
 
-	</div>
-
-	<div id="close"> <!-- Bouton pour retour -->
-		<a href="<?= $page->parent()->url() ?>">
-			✖
-		</a>
+	    <div id="close"> <!-- Bouton pour retour -->
+			<a href="<?= $page->parent()->url() ?>">
+				✖
+			</a>
+		</div>
 	</div>
 </div>
 
 <!-- Navigation -->
-<nav class="bmt">
-    <ul class="pager">
-      <?php if($prev = $page->prevVisible()): ?>
-        <li class="previous"><a href="<?= $prev->url() ?>"><span aria-hidden="true">&larr;</span> <?= $prev->title() ?></a></li>
-      <?php endif ?>
-      <?php if($next = $page->nextVisible()): ?>
-        <li class="next"><a href="<?= $next->url() ?>"><?= $next->title() ?> <span aria-hidden="true">&rarr;</span></a></li>
-      <?php endif ?>
-    </ul>
-</nav>
+<div class="bmt">
+	<nav aria-label="Page navigation">
+	  <ul class="pagination justify-content-center">
+	  	<?php if($prev = $page->prevVisible()): ?>
+		    <li class="page-item">
+		    	<a href="<?= $prev->url() ?>" class="page-link">&larr; <?= $prev->title() ?></a>
+		    </li>
+		<?php endif ?>
+		<?php if($next = $page->nextVisible()): ?>
+	        <li class="page-item">
+	        	<a href="<?= $next->url() ?>" class="page-link"><?= $next->title() ?> &rarr;</span></a>
+	        </li>
+	     <?php endif ?>
+	  </ul>
+	</nav>
+</div>
 
 <?php snippet('footer') ?>
