@@ -15,7 +15,7 @@
 			<?php if ($page->hasDocuments()) : ?>
 				<h4 class="mt">Téléchargement(s)</h4>
 				<?php foreach ($page->documents() as $doc) : ?>
-					<a href="<?= $doc->url() ?>" class="btn btn-default btn-block" download>
+					<a href="<?= $doc->url() ?>" class="btn btn-outline-primary btn-block" download>
 						<?= $doc->filename() ?> (<?= $doc->niceSize() ?>)<i class="fa fa-download fa-left"></i>
 					</a>
 				<?php endforeach ?>
