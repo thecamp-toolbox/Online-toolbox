@@ -1,0 +1,5 @@
+Title: Salles
+
+----
+
+Text: Des salles immersives avec tout le matériel à disposition. En développement.

@@ -1,0 +1,20 @@
+title: Toolbox
+
+pages:
+  template: tool
+  num:
+    mode: default
+    display: null
+  max: null
+  limit: 20
+  sort: false
+  hide: true
+files: false
+
+fields:
+  title:
+    label: Title
+    type: title
+  mysubpagelist:
+    label: Tools
+    type:  subpagelist

@@ -1,0 +1,53 @@
+Prevnext: 
+
+----
+
+Title: Matrice d'engagement
+
+----
+
+Baseline: Définir les différents modes d'engagements autour d'un projet
+
+----
+
+Description: 
+
+Lorem ipsum dolor sit amet, te eam quem eirmod gloriatur. Ex vel amet laudem dissentiet. Id vix option perfecto scribentur, ex nulla dictas equidem has. In argumentum conclusionemque has. Dico erant et nam, no dicta inani nam, id usu zril suavitate. Rebum nullam audire eos ne, per tota dicta dicam in, duo aliquando prodesset adipiscing ut.
+
+Cu movet urbanitas posidonium quo, quo dolores neglegentur voluptatibus ne. Mea fabellas intellegebat cu, pro principes intellegebat id. In pro laoreet ponderum, eum accumsan adolescens an. No ius sint animal accommodare.
+
+----
+
+Imgcredit: Kinetika
+
+----
+
+Difficulty: 3
+
+----
+
+Cats: 
+
+----
+
+Categories: app, interactive, object, service, space, strategy
+
+----
+
+Goal: 
+
+----
+
+Focus: experience
+
+----
+
+Examples: 
+
+----
+
+Tools: 
+
+----
+
+Sources: 

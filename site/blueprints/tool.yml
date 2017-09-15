@@ -1,0 +1,95 @@
+title: Tool
+pages: false
+
+files:
+  sortable: false
+  max: null
+  hide: false
+  sanitize: true
+  fields: null
+  size: null
+  width: null
+  height: null
+
+fields:
+  prevnext: prevnext
+  title:
+    label: Title
+    type: title
+  baseline:
+    label: Baseline 
+    type: text 
+  description: 
+    label: Description 
+    type: textarea 
+  imgcredit: 
+    label: Image credit
+    type: text
+    width: 1/2
+  difficulty: 
+    label: Difficulty (1 > 5)
+    type: number
+    min: 1
+    max: 5
+    step: 1 
+    width: 1/2
+  cats: 
+    label: Filters
+    type: headline 
+  categories:
+    label: Categories
+    type: checkboxes
+    options: query
+    query: 
+      page: typologies
+  goal: 
+    label: Objectives
+    type: checkboxes
+    options: query
+    query: 
+      page: goals
+  focus: 
+    label: Focus 
+    type: checkboxes
+    options: query
+    query: 
+      page: focuses
+  examples: 
+    label: Examples 
+    type: structure 
+    entry: > 
+      {{title}}
+    fields: 
+      title: 
+        label: Title 
+        type: text
+      exlink: 
+        label: Link
+        type: url  
+  tools:
+    label: Tools 
+    type: structure
+    entry: > 
+      {{title}}
+    fields: 
+      title: 
+        label: Title 
+        type: text
+      type: 
+        label: type
+        type: text
+      toollink:
+        label: Link
+        type: url 
+  sources:
+    label: Sources
+    type: structure
+    entry: > 
+      {{title}}
+    fields: 
+      title: 
+        label: Title 
+        type: text
+      sourcelink:
+        label: Link
+        type: url 
