@@ -6,10 +6,13 @@ files:
   max: null
   hide: false
   sanitize: true
-  fields: null
   size: null
   width: null
   height: null
+  fields:
+    title:
+      label: Title
+      type: text
 
 fields:
   prevnext: prevnext

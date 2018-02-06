@@ -13,17 +13,18 @@
 
 			<!-- Documents en téléchargement -->
 			<?php if ($page->hasDocuments()) : ?>
-				<h4 class="mt">Téléchargement(s)</h4>
+				<h5 class="mt">Téléchargement<?php e($page->documents()->count() > 1,'s') ?></h5>
 				<?php foreach ($page->documents() as $doc) : ?>
 					<a href="<?= $doc->url() ?>" class="btn btn-outline-primary btn-block" download>
-						<?= $doc->filename() ?> (<?= $doc->niceSize() ?>)<i class="fa fa-download fa-left"></i>
+						<?php e($doc->title() != '',$doc->title(),$doc->filename()) ?>
+						<!-- (<?= $doc->niceSize() ?>) --><i class="fa fa-download fa-left"></i>
 					</a>
 				<?php endforeach ?>
 			<?php endif ?>
 
 			<!-- Examples (liens) -->
 			<?php if ($page->examples() != '') : ?>
-				<h4 class="mt"><?= l::get('examples') ?></h4>
+				<h5 class="mt"><?= l::get('examples') ?></h5>
 					<ul class="sidebar">
 					<?php foreach ($page->examples()->toStructure() as $ex) : ?>
 						<li>
@@ -37,7 +38,7 @@
 
 			<!-- Outils (liens) -->
 			<?php if ($page->tools() != '') : ?>
-				<h4 class="mt"><?= l::get('tools') ?></h4>
+				<h5 class="mt"><?= l::get('tools') ?></h5>
 				<ul class="sidebar">
 					<?php foreach ($page->tools()->toStructure() as $tool) : ?>
 					<li>
@@ -54,7 +55,7 @@
 
 			<!-- Outils (liens) -->
 			<?php if ($page->sources() != '') : ?>
-				<h4 class="mt"><?= l::get('references') ?></h4>
+				<h5 class="mt"><?= l::get('references') ?></h5>
 				<ul class="sidebar">
 					<?php foreach ($page->sources()->toStructure() as $sou) : ?>
 					<li>
@@ -111,8 +112,6 @@
 					</a>
 				<?php endforeach ?>
 			<?php endif ?>
-
-			<hr>
 
 	      	<p class="card-text"><?= $page->description()->kirbytext() ?></p>
 	    
