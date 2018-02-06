@@ -3,7 +3,7 @@
 <?php snippet('categories') ?>
 
 <div class="row mt">
-	<?php foreach (page('toolbox')->children()->visible()->shuffle()->limit(6) as $p) : ?>
+	<?php foreach (page('toolbox')->children()->visible()->limit(6) as $p) : ?>
 		<?php snippet('tool-card', array('p' => $p)) ?>
 	<?php endforeach ?>
 </div>

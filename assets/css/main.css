@@ -122,6 +122,10 @@ ul.sidebar {
 	list-style-type: none;
 	padding-left: 10px;
 }
+.card-footer {
+  padding: .25rem .75rem;
+  font-size: 0.8rem;
+}
 
 /* Break points */
 @media (min-width: 576px) {

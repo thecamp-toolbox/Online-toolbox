@@ -1,4 +1,4 @@
-title: Tool
+title: Module
 pages: false
 
 files:
@@ -29,9 +29,12 @@ fields:
     label: Image credit
     type: text
     width: 1/2
-  state: 
-    label: Development state
-    type: text
+  difficulty: 
+    label: Difficulty (1 > 5)
+    type: number
+    min: 1
+    max: 5
+    step: 1 
     width: 1/2
   cats: 
     label: Filters
@@ -66,6 +69,21 @@ fields:
       exlink: 
         label: Link
         type: url  
+  tools:
+    label: Tools 
+    type: structure
+    entry: > 
+      {{title}}
+    fields: 
+      title: 
+        label: Title 
+        type: text
+      type: 
+        label: type
+        type: text
+      toollink:
+        label: Link
+        type: url 
   sources:
     label: Sources
     type: structure

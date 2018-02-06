@@ -5,10 +5,11 @@
 				<?php if ($p->hasImages()) : ?>
 		    		<?php $img = $p->images()->first() ?>
 		    		<div class="cover-img" style="background-image:url('<?= $img->url() ?>')">
-		    			<div class="cover-meta">
-		    				<?php $diff = $p->difficulty()->int() ?>
-		    				<?php snippet('stars', array('diff' => $diff)) ?>
-		    			</div>
+		    			<?php if ($diff = $p->difficulty()->int()) : ?>
+			    			<div class="cover-meta">
+			    				<?php snippet('stars', array('diff' => $diff)) ?>
+			    			</div>
+			    		<?php endif ?>
 		    		</div>
 		    	<?php else : ?>
 		    		<div class="cover-img"></div>
@@ -24,7 +25,11 @@
 		    <p class="card-text"><?= $p->baseline()->excerpt(80) ?></p>
 		</div>
 		<div class="card-footer text-muted">
-			Fiche
+			<?php if ($p->template() == 'tool') : ?>
+				<i class="fa fa-wrench"></i> Outil
+			<?php elseif ($p->template() == 'module') : ?>
+				<i class="fa fa-users"></i> Module
+			<?php endif ?>
 		</div>
 	</div>
 </div>
