@@ -12,6 +12,4 @@
 	<a class="btn btn-outline-primary" href="/toolbox"><?= l::get('seeall') ?> <i class="fa fa-arrow-right"></i></a>
 </div>
 
-Plouf plouf 
-
 <?php snippet('footer') ?>
