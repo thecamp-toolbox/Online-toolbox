@@ -3,9 +3,9 @@
 		<div class="card text-center" style="width: 25%;">
 			<img class="card-img-top" src="<?= $cat->images()->first()->url() ?>" alt="">
 			<div class="card-body">
-				<h4 class="card-title"><?= $cat->num() ?> - <?= $cat->title() ?></h4>
+				<strong class="card-title"><?= $cat->num() ?> - <?= $cat->title() ?></strong>
 				<div class="card-text">
-					<?= $cat->text()->kirbytext() ?>
+					<!-- <?= $cat->text()->kirbytext() ?> -->
 				</div>
 			</div>
 		</div>

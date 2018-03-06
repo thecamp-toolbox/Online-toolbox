@@ -9,7 +9,7 @@
 				</a>
 			</div>
 			<div class="col-sm-4 right">
-				<?= $site->footer() ?>
+				<?= $site->footer()->kirbytext() ?>
 			</div>
 		</div>
 	</div>

@@ -14,4 +14,4 @@ Copyright:
 
 ----
 
-Footer: Code disponible sur Github
+Footer: Code disponible sur (link: https://github.com/thecamp-toolbox/Online-toolbox text: Github target: blank)
