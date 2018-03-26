@@ -1,0 +1,17 @@
+Prevnext: 
+
+----
+
+Title: Kinemaster
+
+----
+
+Baseline: Appli de montage
+
+----
+
+Description: Une appli de montage vidéo pour smartphone assez puissante. Permet d'ajouter des effets et pas mal de réglages.
+
+----
+
+Theurl: https://www.kinemaster.com/

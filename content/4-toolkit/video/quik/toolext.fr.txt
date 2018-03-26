@@ -1,0 +1,17 @@
+Prevnext: 
+
+----
+
+Title: Quik
+
+----
+
+Baseline: Simple app de montage
+
+----
+
+Description: Cette appli, faite par GoPro, permet de monter très facilement des séquences filmées.
+
+----
+
+Theurl: https://quik.gopro.com/

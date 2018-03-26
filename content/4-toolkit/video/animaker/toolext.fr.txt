@@ -1,0 +1,17 @@
+Prevnext: 
+
+----
+
+Title: Animaker
+
+----
+
+Baseline: Vidéos animées en ligne
+
+----
+
+Description: Outil en ligne drag & drop pour faire des vidéos animées ou des infographics.
+
+----
+
+Theurl: https://www.animaker.com/

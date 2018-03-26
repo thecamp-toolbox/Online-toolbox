@@ -1,0 +1,17 @@
+Prevnext: 
+
+----
+
+Title: Shakr
+
+----
+
+Baseline: Création de vidéos en ligne
+
+----
+
+Description: Plateforme pour créer des vidéos et publicités en ligne, spécialement pour les réseaux sociaux.
+
+----
+
+Theurl: https://www.shakr.com/

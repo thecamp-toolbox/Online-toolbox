@@ -1,0 +1,17 @@
+Prevnext: 
+
+----
+
+Title: Loom
+
+----
+
+Baseline: Enregistrement de vidéos in-browser
+
+----
+
+Description: Une simple extension Chrome qui permet de filmer son écran pour pouvoir le partager ensuite.
+
+----
+
+Theurl: https://www.useloom.com/

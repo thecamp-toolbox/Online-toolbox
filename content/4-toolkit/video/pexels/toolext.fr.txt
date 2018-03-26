@@ -1,0 +1,17 @@
+Prevnext: 
+
+----
+
+Title: Pexels
+
+----
+
+Baseline: Vidéos de stock gratuites
+
+----
+
+Description: Grande variété de vidéos de qualité, à utiliser n'importe où, sous licence CC0.
+
+----
+
+Theurl: https://videos.pexels.com/
