@@ -1,0 +1,17 @@
+Prevnext: 
+
+----
+
+Title: Wisembly Jam
+
+----
+
+Baseline: Réinventer la collaboration
+
+----
+
+Description: Une technologie pour réparer les réunions et, comme ça, changer l'organisation des entreprises.
+
+----
+
+Theurl: https://jam.wisembly.com/

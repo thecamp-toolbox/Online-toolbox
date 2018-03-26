@@ -1,0 +1,17 @@
+Prevnext: 
+
+----
+
+Title: Zoom
+
+----
+
+Baseline: Visioconférence et conférence en ligne
+
+----
+
+Description: Zoom est le leader des communications vidéo d'entreprise modernes, avec une plate-forme cloud simple et fiable pour les conférences vidéo et audio, le chat et les webinaires, accessible sur mobile, ordinateur de bureau et salle de conférences.
+
+----
+
+Theurl: https://zoom.us/

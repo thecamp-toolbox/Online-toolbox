@@ -1,0 +1,17 @@
+Prevnext: 
+
+----
+
+Title: Zello
+
+----
+
+Baseline: L'app Talkie-Walkie
+
+----
+
+Description: Avec 120 millions d'utilisateurs dans le monde, l'application gratuite Zello est un réseau mondial de radio sociale. Utilisée aussi bien pendant les festivals que pendant les situations d'urgence.
+
+----
+
+Theurl: https://zello.com/

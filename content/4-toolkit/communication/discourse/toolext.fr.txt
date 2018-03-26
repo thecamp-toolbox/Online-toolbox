@@ -1,0 +1,13 @@
+Title: Discourse
+
+----
+
+Baseline: Discussions civilisées
+
+----
+
+Description: Discourse est la plate-forme de discussion 100% open source construite pour la prochaine génération d'Internet. Peut-être utilisée comme: liste de diffusion, forum de discussion, etc.
+
+----
+
+Theurl: http://discourse.org

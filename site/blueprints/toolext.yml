@@ -1,0 +1,21 @@
+title: Toolext
+
+pages: false
+files: true
+
+fields:
+  prevnext: prevnext
+  title:
+    label: Title
+    type: title
+  baseline: 
+    label: Baseline
+    type: text 
+  description: 
+    label: Description 
+    type: textarea
+  theurl: 
+    label: Lien 
+    type: url
+    width: 1/2 
+

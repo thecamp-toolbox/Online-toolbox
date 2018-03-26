@@ -10,6 +10,9 @@ body {
 	font-family: 'MarkPro', sans-serif;
 	background-color: #f9f9f9;;
 }
+strong {
+	font-family: 'MarkProMedium', sans-serif;
+}
 h3 {
 	margin-top: 10px;
 }
@@ -127,6 +130,10 @@ ul.sidebar {
   font-size: 0.8rem;
 }
 
+#navbarHeader {
+	background-color: white;
+}
+
 /* Break points */
 @media (min-width: 576px) {
 	.left-card {
@@ -149,4 +156,20 @@ h3 {
 }
 
 /* Bootstrap V4 */
-
+.athumb {
+	width: 80px;
+}
+.media p {
+	margin-bottom: 0.4rem;
+}
+.toolkit .media {
+	background-color: white;
+	padding: 1rem;
+	border-bottom: 1px solid rgba(0,0,0,.125);
+}
+.media:last-child {
+	border-bottom: 0px;
+}
+.media:hover {
+	background-color: transparent;
+}

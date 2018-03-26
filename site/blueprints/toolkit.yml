@@ -1,0 +1,22 @@
+title: Toolkit
+
+pages:
+  template: toolcat
+  num:
+    mode: default
+    display: null
+  max: null
+  sort: false
+  hide: true
+files: false
+
+fields:
+  title:
+    label: Title
+    type: title
+  description: 
+    label: Description 
+    type: textarea 
+  mysubpagelist:
+    label: Toolkit categories
+    type:  subpagelist

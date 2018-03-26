@@ -1,0 +1,20 @@
+Prevnext: 
+
+----
+
+Title: Zulip
+
+----
+
+Baseline: Slack, mais open source
+
+----
+
+Description: 
+
+Zulip combine l'immédiateté de Slack avec un modèle de threading par email.
+Avec Zulip, vous pouvez rattraper des conversations importantes tout en ignorant celles qui ne le sont pas.
+
+----
+
+Theurl: https://zulipchat.com/

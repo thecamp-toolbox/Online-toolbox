@@ -1,0 +1,17 @@
+Prevnext: 
+
+----
+
+Title: Slack
+
+----
+
+Baseline: Au coeur du travail
+
+----
+
+Description: Slack est devenue en quelques années LA référence pour le travail en équipe. Des *channels* permettent de constituer des groupes de discussion. L'intégration avec de nombreux outils permet de centraliser toutes les notifications.
+
+----
+
+Theurl: https://slack.com/
