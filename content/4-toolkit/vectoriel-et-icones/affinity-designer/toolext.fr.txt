@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Affinity Designer
+
+----
+
+Baseline: Liberté d'illustrer, design de précision
+
+----
+
+Description: Un logiciel de dessin vectoriel ultra-puissant et complètement abordable.
+
+----
+
+Theurl: https://affinity.serif.com/en-gb/designer/
+
+----
+
+Opensource: false
+
+----
+
+Categories: logiciel

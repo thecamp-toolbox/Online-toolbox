@@ -21,5 +21,18 @@
 		<span class="badge badge-dark">Collaboration</span>
 		<span class="badge badge-success"><i class="fa fa-users"></i></span>
 		-->
+		<!-- Aller chercher les catégories -->
+		<?php if ($tool->categories() != '') : ?>
+			<?php foreach ($tool->categories()->split() as $cat) : ?>
+				<?php $thecat = page('typologies')->children()->find($cat) ?>
+				<a href="<?= $site->url().'/prototypes/cat:'.$cat ?>">
+					<span class="badge badge-secondary"><?= $thecat->title() ?></span>
+				</a>
+			<?php endforeach ?>
+		<?php endif ?>
+
+		<?php if ($tool->opensource() == 'true') : ?>
+			<span class="badge badge-primary">Open source</span>
+		<?php endif ?>
 	</div>
 </li>

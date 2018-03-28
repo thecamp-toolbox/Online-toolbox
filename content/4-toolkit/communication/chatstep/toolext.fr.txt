@@ -11,3 +11,11 @@ Description: Chatstep permet de créer simplement des chatrooms, qui peuvent êt
 ----
 
 Theurl: https://chatstep.com/
+
+----
+
+Opensource: false
+
+----
+
+Categories: webapp

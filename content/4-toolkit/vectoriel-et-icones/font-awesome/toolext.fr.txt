@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Font Awesome
+
+----
+
+Baseline: Icônes. Facile. Fait.
+
+----
+
+Description: Une librairie d'icônes vectorielles, à intégrer à un site sous forme de tags html. Une référence dans le monde du web.
+
+----
+
+Theurl: https://fontawesome.com/
+
+----
+
+Opensource: true
+
+----
+
+Categories: bibliotheque

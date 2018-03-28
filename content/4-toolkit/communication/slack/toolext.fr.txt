@@ -15,3 +15,11 @@ Description: Slack est devenue en quelques années LA référence pour le travai
 ----
 
 Theurl: https://slack.com/
+
+----
+
+Opensource: false
+
+----
+
+Categories: app, plateforme

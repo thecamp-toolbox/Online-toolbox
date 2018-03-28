@@ -15,3 +15,11 @@ Description: Magency révolutionne les interactions en formations, réunions et 
 ----
 
 Theurl: https://www.magency.me/magency-box
+
+----
+
+Opensource: false
+
+----
+
+Categories: object, plateforme

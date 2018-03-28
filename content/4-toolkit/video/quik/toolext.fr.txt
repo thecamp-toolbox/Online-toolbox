@@ -15,3 +15,11 @@ Description: Cette appli, faite par GoPro, permet de monter très facilement des
 ----
 
 Theurl: https://quik.gopro.com/
+
+----
+
+Opensource: false
+
+----
+
+Categories: app

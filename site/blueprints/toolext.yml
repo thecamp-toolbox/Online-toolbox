@@ -18,4 +18,15 @@ fields:
     label: Lien 
     type: url
     width: 1/2 
+  opensource: 
+    label: Opensource ? 
+    type: toggle
+    default: false
+    width: 1/2
+  categories:
+    label: Categories
+    type: checkboxes
+    options: query
+    query: 
+      page: typologies
 

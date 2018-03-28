@@ -15,3 +15,11 @@ Description: Permet de créer des vidéo-conférences sans mot de passe et sans 
 ----
 
 Theurl: https://appear.in/
+
+----
+
+Opensource: false
+
+----
+
+Categories: webapp

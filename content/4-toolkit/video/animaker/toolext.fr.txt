@@ -15,3 +15,11 @@ Description: Outil en ligne drag & drop pour faire des vidéos animées ou des i
 ----
 
 Theurl: https://www.animaker.com/
+
+----
+
+Opensource: false
+
+----
+
+Categories: plateforme

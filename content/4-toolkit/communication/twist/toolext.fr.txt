@@ -15,3 +15,11 @@ Description: Twist, c'est l'application de communication pour les équipes qui p
 ----
 
 Theurl: https://twistapp.com/
+
+----
+
+Opensource: false
+
+----
+
+Categories: app, plateforme

@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Feather Icons
+
+----
+
+Baseline: Icônes open source
+
+----
+
+Description: Librairie simple et efficace. Icônes très facile à télécharger.
+
+----
+
+Theurl: https://feathericons.com/
+
+----
+
+Opensource: true
+
+----
+
+Categories: bibliotheque

@@ -15,3 +15,11 @@ Description: Une appli de montage vidéo pour smartphone assez puissante. Permet
 ----
 
 Theurl: https://www.kinemaster.com/
+
+----
+
+Opensource: false
+
+----
+
+Categories: app

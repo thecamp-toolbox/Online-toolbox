@@ -15,3 +15,11 @@ Description: Une simple extension Chrome qui permet de filmer son écran pour po
 ----
 
 Theurl: https://www.useloom.com/
+
+----
+
+Opensource: false
+
+----
+
+Categories: plugin-web

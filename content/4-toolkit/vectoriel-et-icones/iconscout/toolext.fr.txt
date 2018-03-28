@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Iconscout
+
+----
+
+Baseline: Bibliothèque d'icônes
+
+----
+
+Description: Plein d'icônes de toutes les couleurs et des 'bundles' de tous les styles.
+
+----
+
+Theurl: https://iconscout.com/
+
+----
+
+Opensource: false
+
+----
+
+Categories: bibliotheque

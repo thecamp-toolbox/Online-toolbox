@@ -15,3 +15,11 @@ Description: Avec 120 millions d'utilisateurs dans le monde, l'application gratu
 ----
 
 Theurl: https://zello.com/
+
+----
+
+Opensource: false
+
+----
+
+Categories: app

@@ -15,3 +15,11 @@ Description: Plateforme pour créer des vidéos et publicités en ligne, spécia
 ----
 
 Theurl: https://www.shakr.com/
+
+----
+
+Opensource: false
+
+----
+
+Categories: plateforme

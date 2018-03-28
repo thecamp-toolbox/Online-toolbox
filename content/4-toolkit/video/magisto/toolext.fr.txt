@@ -15,3 +15,11 @@ Description: Faire des vidéos optimisées pour les réseaux sociaux grâce à l
 ----
 
 Theurl: https://www.magisto.com/
+
+----
+
+Opensource: false
+
+----
+
+Categories: plateforme

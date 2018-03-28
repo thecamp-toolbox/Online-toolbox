@@ -15,3 +15,11 @@ Description: Zoom est le leader des communications vidéo d'entreprise modernes,
 ----
 
 Theurl: https://zoom.us/
+
+----
+
+Opensource: false
+
+----
+
+Categories: logiciel

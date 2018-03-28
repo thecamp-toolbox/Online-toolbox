@@ -15,3 +15,11 @@ Description: Powtoon permet de créer simplement des vidéos animées à partir 
 ----
 
 Theurl: 
+
+----
+
+Opensource: false
+
+----
+
+Categories: plateforme

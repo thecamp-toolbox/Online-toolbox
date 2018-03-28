@@ -15,3 +15,11 @@ Description: Rien de plus simple : il suffit de copier coller le lien de la vid√
 ----
 
 Theurl: https://save-vid.com/
+
+----
+
+Opensource: false
+
+----
+
+Categories: webapp

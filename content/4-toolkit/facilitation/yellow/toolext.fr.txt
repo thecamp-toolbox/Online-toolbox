@@ -11,3 +11,11 @@ Description: Yellow est une solution logicielle permettant de numériser les act
 ----
 
 Theurl: http://getyellow.io
+
+----
+
+Opensource: false
+
+----
+
+Categories: app, plateforme

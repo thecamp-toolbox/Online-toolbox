@@ -15,3 +15,11 @@ Description: Un enregistreur d'écran open-source construit avec les technologie
 ----
 
 Theurl: https://getkap.co/
+
+----
+
+Opensource: true
+
+----
+
+Categories: logiciel

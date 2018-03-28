@@ -15,3 +15,11 @@ Description: Spectrum facilite la croissance de communautés en ligne sûres et 
 ----
 
 Theurl: https://spectrum.chat/
+
+----
+
+Opensource: false
+
+----
+
+Categories: plateforme

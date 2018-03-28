@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Lingo
+
+----
+
+Baseline: Gestionnaire d'icônes
+
+----
+
+Description: L'appli de gestion d'icônes, faite par l'équipe de thenounproject.
+
+----
+
+Theurl: https://www.lingoapp.com/
+
+----
+
+Opensource: false
+
+----
+
+Categories: logiciel

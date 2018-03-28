@@ -15,3 +15,11 @@ Description: Grande variété de vidéos de qualité, à utiliser n'importe où,
 ----
 
 Theurl: https://videos.pexels.com/
+
+----
+
+Opensource: false
+
+----
+
+Categories: bibliotheque

@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Nucleo
+
+----
+
+Baseline: Logiciel de gestion d'icônes
+
+----
+
+Description: Système de gestion collaborative d'icônes, avec plusieurs bibliothèques intégrées.
+
+----
+
+Theurl: https://nucleoapp.com/
+
+----
+
+Opensource: false
+
+----
+
+Categories: logiciel

@@ -18,3 +18,11 @@ Avec Zulip, vous pouvez rattraper des conversations importantes tout en ignorant
 ----
 
 Theurl: https://zulipchat.com/
+
+----
+
+Opensource: true
+
+----
+
+Categories: plateforme

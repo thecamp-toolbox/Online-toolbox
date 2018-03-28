@@ -15,3 +15,11 @@ Description: Transférer, revoir et partager des vidéos en privé avec toute vo
 ----
 
 Theurl: http://frame.io
+
+----
+
+Opensource: false
+
+----
+
+Categories: plateforme

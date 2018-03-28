@@ -15,3 +15,11 @@ Description: Un logiciel d'enregistrement d'écran pour Mac sans prétention. Ma
 ----
 
 Theurl: https://en.freedownloadmanager.org/Mac-OS/U2Any-Screen-Recorder-Free.html
+
+----
+
+Opensource: false
+
+----
+
+Categories: logiciel

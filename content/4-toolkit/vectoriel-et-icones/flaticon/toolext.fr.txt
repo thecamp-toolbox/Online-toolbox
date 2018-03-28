@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Flaticon
+
+----
+
+Baseline: Plein de packs d'icônes gratuites
+
+----
+
+Description: Certaines icônes vectorielles ont de la couleur.
+
+----
+
+Theurl: https://www.flaticon.com/
+
+----
+
+Opensource: false
+
+----
+
+Categories: bibliotheque

@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Entypo
+
+----
+
+Baseline: 411 icônes gratuites
+
+----
+
+Description: Un pack de 400+ icônes en CC BY-SA 4.0 téléchargeables gratuitement.
+
+----
+
+Theurl: http://www.entypo.com/
+
+----
+
+Opensource: true
+
+----
+
+Categories: bibliotheque

@@ -11,3 +11,11 @@ Description: Discourse est la plate-forme de discussion 100% open source constru
 ----
 
 Theurl: http://discourse.org
+
+----
+
+Opensource: true
+
+----
+
+Categories: plateforme

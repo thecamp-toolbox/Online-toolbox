@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Icofont
+
+----
+
+Baseline: 2000+ icônes dans une police de caractère
+
+----
+
+Description: Icônes classées dans ~25 catégories.
+
+----
+
+Theurl: http://icofont.com/
+
+----
+
+Opensource: false
+
+----
+
+Categories: bibliotheque

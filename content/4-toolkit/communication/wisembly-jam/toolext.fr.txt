@@ -15,3 +15,11 @@ Description: Une technologie pour réparer les réunions et, comme ça, changer 
 ----
 
 Theurl: https://jam.wisembly.com/
+
+----
+
+Opensource: false
+
+----
+
+Categories: webapp
