@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Wisembly
+
+----
+
+Baseline: Pour des réunions interactives !
+
+----
+
+Description: Wisembly et Jam sont deux applications pour développer l’interactivité et la productivité sur tous vos formats de réunion : séminaires, réunions d’équipes, ateliers, etc.
+
+----
+
+Theurl: https://wisembly.com/
+
+----
+
+Opensource: false
+
+----
+
+Categories: plateforme

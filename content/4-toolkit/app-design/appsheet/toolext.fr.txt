@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Appsheet
+
+----
+
+Baseline: Une appli à partir d'un Excel
+
+----
+
+Description: Appsheet permet de créer facilement des applications statiques à partir d'un tableau Excel (dont, des applis avec éléments géolocalisés).
+
+----
+
+Theurl: https://www.appsheet.com/
+
+----
+
+Opensource: false
+
+----
+
+Categories: plateforme

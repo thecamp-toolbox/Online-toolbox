@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Klaxoon
+
+----
+
+Baseline: La révolution du meeting
+
+----
+
+Description: Une série de produits pour animer vos réunions et ateliers. Du brainstorm à la récolte du feedback. Développé en France.
+
+----
+
+Theurl: https://klaxoon.com/fr/
+
+----
+
+Opensource: false
+
+----
+
+Categories: object, plateforme, webapp

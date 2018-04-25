@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Kahoot
+
+----
+
+Baseline: Rendre l'apprentissage cool !
+
+----
+
+Description: Plateforme de création de questionnaires pour supporter des programmes d'apprentissage.
+
+----
+
+Theurl: https://kahoot.com/
+
+----
+
+Opensource: false
+
+----
+
+Categories: plateforme

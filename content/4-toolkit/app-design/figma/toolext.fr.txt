@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Figma
+
+----
+
+Baseline: Design d'interfaces collaboratif
+
+----
+
+Description: Interface en ligne pour faire des maquettes d'applications.
+
+----
+
+Theurl: https://www.figma.com/
+
+----
+
+Opensource: false
+
+----
+
+Categories: plateforme

@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Session Lab
+
+----
+
+Baseline: L'organisation de workshops simplifiée
+
+----
+
+Description: Session Lab permet au facilitateur de construire le déroulé de son événement de manière simple et intuitive. Des fonctionnalités collaboratives permettent de travailler en équipe.
+
+----
+
+Theurl: https://www.sessionlab.com/
+
+----
+
+Opensource: false
+
+----
+
+Categories: bibliotheque, plateforme

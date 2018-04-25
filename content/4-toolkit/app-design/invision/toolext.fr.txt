@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: inVision
+
+----
+
+Baseline: Plateforme de prototypage de sites et applications
+
+----
+
+Description: inVision offre des capacités très intéressantes de prototypage en ligne, avec une multitude de fonctionnalités collaboratives faites pour aider les designers.
+
+----
+
+Theurl: https://www.invisionapp.com/
+
+----
+
+Opensource: false
+
+----
+
+Categories: plateforme

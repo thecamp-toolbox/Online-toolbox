@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Slido
+
+----
+
+Baseline: Faciliter l'interaction avec son audience
+
+----
+
+Description: Slido permet de générer des Q&As et des quizz à la volée pendant un atelier ou une conférence, afin de faire participer l'audience.
+
+----
+
+Theurl: https://www.sli.do/
+
+----
+
+Opensource: false
+
+----
+
+Categories: plateforme

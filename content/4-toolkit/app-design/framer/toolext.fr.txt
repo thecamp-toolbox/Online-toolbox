@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Framer
+
+----
+
+Baseline: Logiciel de prototypage d'applis
+
+----
+
+Description: Framer est un logiciel complet de prototypage. Il permet aussi bien de collaborer que de recevoir du feedback.
+
+----
+
+Theurl: https://framer.com/
+
+----
+
+Opensource: false
+
+----
+
+Categories: logiciel

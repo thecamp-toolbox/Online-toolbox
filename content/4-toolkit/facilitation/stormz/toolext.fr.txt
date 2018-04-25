@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Stormz
+
+----
+
+Baseline: Révélez l'intelligence collective de vos équipes
+
+----
+
+Description: L'application numérique Stormz offre toutes les fonctionnalités pour animer des activités interactives et collaboratives comme un quiz, un brainstorming, une rétrospective ou la co-construction d’un plan stratégique.
+
+----
+
+Theurl: https://stormz.me/
+
+----
+
+Opensource: false
+
+----
+
+Categories: plateforme

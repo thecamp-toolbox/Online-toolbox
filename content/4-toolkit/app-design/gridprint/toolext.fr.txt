@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Gridprint
+
+----
+
+Baseline: Des grilles à imprimer
+
+----
+
+Description: Gridprint offre une quinzaine de grilles à télécharger et à imprimer pour prototyper des applications à la main.
+
+----
+
+Theurl: https://gridprint.in/
+
+----
+
+Opensource: false
+
+----
+
+Categories: bibliotheque, template

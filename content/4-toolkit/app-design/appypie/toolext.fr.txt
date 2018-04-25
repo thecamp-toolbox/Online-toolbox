@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Appypie
+
+----
+
+Baseline: Des apps fonctionnelles facilement
+
+----
+
+Description: Appypie permet de prototyper facilement différents types d'applications simples.
+
+----
+
+Theurl: https://www.appypie.com/
+
+----
+
+Opensource: false
+
+----
+
+Categories: plateforme

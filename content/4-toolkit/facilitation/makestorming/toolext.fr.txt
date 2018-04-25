@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Makestorming
+
+----
+
+Baseline: Les outils de nod-A
+
+----
+
+Description: L'agence nod-A met une partie de ses outils et templates en téléchargement libre. De l'animation de réunion au lancement de projet.
+
+----
+
+Theurl: http://makestorming.com/outils/freemium
+
+----
+
+Opensource: false
+
+----
+
+Categories: bibliotheque, template

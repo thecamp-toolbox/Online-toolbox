@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Telegram
+
+----
+
+Baseline: Un nouvelle ère de la messagerie
+
+----
+
+Description: Système de messagerie mobile prisée autant par les hackers que par les hauts fonctionnaires pour sa vitesse et son niveau de sécurité.
+
+----
+
+Theurl: https://telegram.org/
+
+----
+
+Opensource: false
+
+----
+
+Categories: app, logiciel

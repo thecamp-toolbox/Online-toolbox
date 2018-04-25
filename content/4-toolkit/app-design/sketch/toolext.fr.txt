@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Sketch
+
+----
+
+Baseline: La référence pour le maquettage d'applis
+
+----
+
+Description: En quelques années seulement, Sketch est devenu LA référence pour construire des applications. Une série de plugins (dont Craft) permettent d'en faire un outil sur-puissant.
+
+----
+
+Theurl: https://www.sketchapp.com/
+
+----
+
+Opensource: false
+
+----
+
+Categories: logiciel

@@ -65,6 +65,17 @@ a:hover {
 .right {
 	text-align: right; 
 }
+.lines {
+	width: 15%;
+	filter: grayscale(100%);
+	transition: all 0.5s ease;
+}
+.lines:hover {
+	filter: grayscale(0%);
+}
+.rounded-thumb {
+	border-radius: 1rem; 
+}
 .fa-left {
 	margin-left: 5px;
 }

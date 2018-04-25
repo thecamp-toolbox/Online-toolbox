@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Design better
+
+----
+
+Baseline: Bonnes pratiques
+
+----
+
+Description: Plateforme d'apprentissage qui réunit un certain nombre de bonnes pratiques à travers des livrets assez bien faits.
+
+----
+
+Theurl: https://www.designbetter.co/
+
+----
+
+Opensource: false
+
+----
+
+Categories: leanring-platform

@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: UI faces
+
+----
+
+Baseline: Fausses faces
+
+----
+
+Description: Une série d'images carrées à utiliser pour faire des faux utilisateurs dans une maquette d'application.
+
+----
+
+Theurl: http://www.uifaces.com/
+
+----
+
+Opensource: false
+
+----
+
+Categories: bibliotheque
