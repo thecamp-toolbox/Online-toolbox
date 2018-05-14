@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Genially
+
+----
+
+Baseline: Donner vie à des contenus
+
+----
+
+Description: Permet de faire des 'expériences de communication' (Présentations, Infographies, Dossiers, Vidéos-Présentations, ePosters, CVs, Quiz, etc.)
+
+----
+
+Theurl: https://www.genial.ly/
+
+----
+
+Opensource: false
+
+----
+
+Categories: webapp

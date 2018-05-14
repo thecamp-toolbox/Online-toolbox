@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Whiteboard
+
+----
+
+Baseline: Outil de dessin in-browser
+
+----
+
+Description: Un vrai 'whiteboard' simple et collaboratif en ligne.
+
+----
+
+Theurl: https://witeboard.com/
+
+----
+
+Opensource: false
+
+----
+
+Categories: webapp

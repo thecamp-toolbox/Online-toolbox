@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Tineye
+
+----
+
+Baseline: Recherche d'image inversée
+
+----
+
+Description: Permet de retrouver où une image a été utilisée ailleurs sur Internet.
+
+----
+
+Theurl: https://www.tineye.com/
+
+----
+
+Opensource: false
+
+----
+
+Categories: webapp

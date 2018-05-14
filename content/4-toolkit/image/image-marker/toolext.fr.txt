@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Image Marker
+
+----
+
+Baseline: Images interactives
+
+----
+
+Description: Permet d'ajouter des zones interactives dans des images.
+
+----
+
+Theurl: https://www.imagemarker.com/index_en.html
+
+----
+
+Opensource: false
+
+----
+
+Categories: webapp

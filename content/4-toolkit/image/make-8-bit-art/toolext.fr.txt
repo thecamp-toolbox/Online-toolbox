@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Make 8-bit art
+
+----
+
+Baseline: Dessin pixel-art in browser
+
+----
+
+Description: Outil simple pour faire des dessins pixelisés.
+
+----
+
+Theurl: https://make8bitart.com/
+
+----
+
+Opensource: false
+
+----
+
+Categories: webapp

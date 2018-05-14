@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Giphy
+
+----
+
+Baseline: Bibliothèque de GIFs
+
+----
+
+Description: Super bibliothèque de GIFs animés. Permet aussi, à travers plusieurs webapps de créer ses propres GIFs à partir d'une vidéo ou d'une série de photos, ou encore de customiser des GIFs existants.
+
+----
+
+Theurl: https://giphy.com/
+
+----
+
+Opensource: false
+
+----
+
+Categories: bibliotheque, plateforme, webapp

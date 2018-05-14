@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Interactive Image
+
+----
+
+Baseline: Points d'intérêt dans des images
+
+----
+
+Description: Permet d'ajouter simplement des points d'intérêt dans une image.
+
+----
+
+Theurl: https://interactive-img.com/
+
+----
+
+Opensource: false
+
+----
+
+Categories: webapp

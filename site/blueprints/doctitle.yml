@@ -1,0 +1,18 @@
+title: Doctitle
+
+pages:
+  template: docpage
+  num:
+    mode: default
+    display: null
+  sort: false
+  hide: true
+files: false
+
+fields:
+  title:
+    label: Title
+    type: title
+  mysubpagelist:
+    label: Pages
+    type:  subpagelist

@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Krita
+
+----
+
+Baseline: Logiciel de 'digital painting'
+
+----
+
+Description: Gratuit et open source, ce logiciel permet de faire tous types d'illustration.
+
+----
+
+Theurl: https://krita.org/en/
+
+----
+
+Opensource: true
+
+----
+
+Categories: logiciel

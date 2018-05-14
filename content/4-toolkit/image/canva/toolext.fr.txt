@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Canva
+
+----
+
+Baseline: Design graphique en ligne
+
+----
+
+Description: Canva permet de concevoir une grande variété d'objets graphiques, de la retouche d'image à des infographies.
+
+----
+
+Theurl: https://www.canva.com/
+
+----
+
+Opensource: false
+
+----
+
+Categories: plateforme

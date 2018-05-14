@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: GoMoodboards
+
+----
+
+Baseline: Outil en ligne de création de moodboards
+
+----
+
+Description: Très simple d'utilisation (même pas besoin de créer un compte).
+
+----
+
+Theurl: http://www.gomoodboard.com/
+
+----
+
+Opensource: false
+
+----
+
+Categories: webapp

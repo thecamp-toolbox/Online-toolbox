@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Tiny PNG
+
+----
+
+Baseline: Allégez vos images pour le web
+
+----
+
+Description: Permet de faire baisser facilement la taille des images pour qu'elles soient plus faciles à utiliser sur le web.
+
+----
+
+Theurl: https://tinypng.com/
+
+----
+
+Opensource: false
+
+----
+
+Categories: webapp

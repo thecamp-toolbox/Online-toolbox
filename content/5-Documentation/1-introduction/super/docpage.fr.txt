@@ -1,0 +1,29 @@
+Prevnext: 
+
+----
+
+Title: Super
+
+----
+
+Description: 
+
+###Approach
+
+Reboot builds upon Normalize, providing many HTML elements with somewhat opinionated styles using only element selectors. Additional styling is done only with classes. For example, we reboot some <table> styles for a simpler baseline and later provide .table, .table-bordered, and more.
+
+Here are our guidelines and reasons for choosing what to override in Reboot:
+
+- Update some browser default values to use rems instead of ems for scalable component spacing.
+- Avoid margin-top. Vertical margins can collapse, yielding unexpected results. More importantly though, a single direction of margin is a simpler mental model.
+- For easier scaling across device sizes, block elements should use rems for margins.
+- Keep declarations of font-related properties to a minimum, using inherit whenever possible.
+
+###Page defaults
+
+The <html> and <body> elements are updated to provide better page-wide defaults. More specifically:
+
+- The box-sizing is globally set on every element—including *::before and *::after, to border-box. This ensures that the declared width of element is never exceeded due to padding or border.
+- No base font-size is declared on the <html>, but 16px is assumed (the browser default). font-size: 1rem is applied on the <body> for easy responsive type-scaling via media queries while respecting user preferences and ensuring a more accessible approach.
+- The <body> also sets a global font-family, line-height, and text-align. This is inherited later by some form elements to prevent font inconsistencies.
+- For safety, the <body> has a declared background-color, defaulting to #fff.

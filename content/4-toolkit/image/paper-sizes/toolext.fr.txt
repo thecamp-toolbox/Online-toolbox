@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Paper sizes
+
+----
+
+Baseline: Toutes les tailles de papier
+
+----
+
+Description: Liste des références internationales de tailles de papier en mm et pouces.
+
+----
+
+Theurl: https://papersizes.io/
+
+----
+
+Opensource: false
+
+----
+
+Categories: bibliotheque

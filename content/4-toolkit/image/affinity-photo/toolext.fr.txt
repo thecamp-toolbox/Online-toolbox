@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Affinity photo
+
+----
+
+Baseline: Logiciel de retouche photo
+
+----
+
+Description: À seulement 55€, Affinity photo est une alternative sérieuse à Photoshop.
+
+----
+
+Theurl: https://affinity.serif.com/en-gb/photo/
+
+----
+
+Opensource: false
+
+----
+
+Categories: logiciel

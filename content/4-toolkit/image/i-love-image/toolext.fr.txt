@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: I love Image
+
+----
+
+Baseline: Outils de retouche en ligne
+
+----
+
+Description: Série d'outils gratuits pour faire de la retouche d'image de base.
+
+----
+
+Theurl: https://www.iloveimg.com/fr
+
+----
+
+Opensource: false
+
+----
+
+Categories: webapp
