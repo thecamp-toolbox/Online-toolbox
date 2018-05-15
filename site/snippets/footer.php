@@ -1,3 +1,7 @@
+</div> <!-- end header container -->
+<div class="clearfix"></div>
+
+<div class="container">
 	<div class="bmt">
 		<hr>
 		<div class="row">
@@ -13,7 +17,6 @@
 			</div>
 		</div>
 	</div>
-
 </div> <!-- fin content --> 
 
 	<!-- Bootstrap V4 -->

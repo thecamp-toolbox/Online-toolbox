@@ -184,3 +184,9 @@ h3 {
 .media:hover {
 	background-color: transparent;
 }
+.documentation a.active {
+	color: #0056b3;
+}
+.documentation li.nav-item>a {
+	padding-left: 0.5rem;
+}

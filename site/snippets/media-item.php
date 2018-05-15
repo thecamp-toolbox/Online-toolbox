@@ -11,7 +11,7 @@
 		      	</a> 
 	      	<?php endif ?>
 	    </h5>
-	    <p><strong>"<?= $tool->baseline() ?>"</strong></p>
+	    <p><i><?= $tool->baseline() ?></i></p>
 		<?= $tool->description()->kirbytext() ?>
 		<!-- 
 	    <a href="#">
