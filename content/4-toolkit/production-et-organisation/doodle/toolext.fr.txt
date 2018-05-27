@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Doodle
+
+----
+
+Baseline: Questionnaire pour organiser une réunion
+
+----
+
+Description: Envie de trouver une date pour organiser une réunion avec plusieurs personnes ? Doodle est l'outil de référence pour le faire simplement.
+
+----
+
+Theurl: http://doodle.com
+
+----
+
+Opensource: false
+
+----
+
+Categories: webapp

@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Unroll.me
+
+----
+
+Baseline: Nettoyage de newsletter
+
+----
+
+Description: Unroll permet de combiner dans un seul message tous les différents abonnements de newsletters et donc de nettoyer son inbox.
+
+----
+
+Theurl: https://unroll.me/
+
+----
+
+Opensource: false
+
+----
+
+Categories: plateforme

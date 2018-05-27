@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: WeTransfer
+
+----
+
+Baseline: Outil de transfer de fichiers
+
+----
+
+Description: WeTransfer est devenu LA référence pour envoyer des fichiers volumineux (jusqu'à 2Go dans la version gratuite) grâce à son interface minimaliste et son fonctionnement simple.
+
+----
+
+Theurl: https://wetransfer.com/
+
+----
+
+Opensource: false
+
+----
+
+Categories: webapp

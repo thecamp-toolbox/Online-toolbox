@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: YouCanBookMe
+
+----
+
+Baseline: Outil de prise de rdv
+
+----
+
+Description: Connectez le à votre agenda pour permettre à n'importe qui de prendre des rdvs qui vous conviennent.
+
+----
+
+Theurl: http://YouCanBook.me
+
+----
+
+Opensource: false
+
+----
+
+Categories: plateforme

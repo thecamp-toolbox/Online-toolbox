@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: IFTTT
+
+----
+
+Baseline: Lier et automoatiser des applications entre elles
+
+----
+
+Description: Permet de lier simplement plusieurs devices ou applications entre elles. Des 'recettes' déjà faites facilitent la découverte.
+
+----
+
+Theurl: https://ifttt.com/
+
+----
+
+Opensource: false
+
+----
+
+Categories: plateforme

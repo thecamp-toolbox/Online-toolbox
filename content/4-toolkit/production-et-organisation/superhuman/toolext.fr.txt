@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Superhuman
+
+----
+
+Baseline: Client mail
+
+----
+
+Description: Un client mail qui sort de l'ordinaire. Certaines fonctions s'appuient sur de l'intelligence artificielle.
+
+----
+
+Theurl: https://superhuman.com/
+
+----
+
+Opensource: false
+
+----
+
+Categories: plateforme

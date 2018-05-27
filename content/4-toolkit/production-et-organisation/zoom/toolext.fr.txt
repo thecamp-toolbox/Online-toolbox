@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Zoom
+
+----
+
+Baseline: Assistant IA
+
+----
+
+Description: Zoom promet un assistant automatique basé sur une intelligence artificielle.
+
+----
+
+Theurl: http://zoom.ai
+
+----
+
+Opensource: false
+
+----
+
+Categories: plateforme

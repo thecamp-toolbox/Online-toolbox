@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: AndCo
+
+----
+
+Baseline: Comptabilité pour freelances
+
+----
+
+Description: Andco permet de gérer tous les aspects financiers de la vie d'un freelance.
+
+----
+
+Theurl: https://www.and.co/
+
+----
+
+Opensource: false
+
+----
+
+Categories: plateforme

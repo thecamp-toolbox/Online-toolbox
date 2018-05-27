@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Airtable
+
+----
+
+Baseline: Tableur en ligne
+
+----
+
+Description: Cet outil collaboratif et surpuissant permet de gérer des bases de données interconnectées. Son API permet de l'utiliser comme base de donnée simple pour différents usages.
+
+----
+
+Theurl: https://airtable.com/
+
+----
+
+Opensource: false
+
+----
+
+Categories: plateforme

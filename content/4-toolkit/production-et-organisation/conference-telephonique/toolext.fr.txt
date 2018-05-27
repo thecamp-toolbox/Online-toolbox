@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Conférence téléphonique OVH
+
+----
+
+Baseline: Numéro de conférence téléphonique gratuit
+
+----
+
+Description: Un numéro de téléconférence facile à mettre en place et gratuit.
+
+----
+
+Theurl: https://www.ovh.com/cgi-bin/telephony/webconf.pl
+
+----
+
+Opensource: false
+
+----
+
+Categories: webapp

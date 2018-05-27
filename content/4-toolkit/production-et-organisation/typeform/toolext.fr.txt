@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Typeform
+
+----
+
+Baseline: Des questionnaires en ligne
+
+----
+
+Description: Typeform permet de faire de beaux questionnaires en ligne, sous plein de formes différentes (quizzes, etc.).
+
+----
+
+Theurl: http://typeform.com/
+
+----
+
+Opensource: false
+
+----
+
+Categories: plateforme

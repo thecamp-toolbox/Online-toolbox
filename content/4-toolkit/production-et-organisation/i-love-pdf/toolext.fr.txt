@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: I love PDF
+
+----
+
+Baseline: Tout pour gérer des PDFs
+
+----
+
+Description: Le site permet de combiner, découper, diminuer la taille de PDFs.
+
+----
+
+Theurl: https://www.ilovepdf.com/fr
+
+----
+
+Opensource: false
+
+----
+
+Categories: webapp

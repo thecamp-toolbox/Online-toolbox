@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Wunderlist
+
+----
+
+Baseline: Simple TODO list
+
+----
+
+Description: Wunderlist est un outil collaboratif d'organisation.
+
+----
+
+Theurl: https://www.wunderlist.com
+
+----
+
+Opensource: false
+
+----
+
+Categories: app, webapp

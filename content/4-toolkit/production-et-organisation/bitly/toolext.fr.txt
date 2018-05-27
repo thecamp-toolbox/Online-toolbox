@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Bitly
+
+----
+
+Baseline: Raccourcisseur d'URL
+
+----
+
+Description: Facile à mettre en place, il permet aussi de suivre le nombre de fois où il a été utilisé.
+
+----
+
+Theurl: https://bitly.com/
+
+----
+
+Opensource: false
+
+----
+
+Categories: webapp

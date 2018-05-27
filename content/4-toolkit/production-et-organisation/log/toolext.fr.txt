@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Log
+
+----
+
+Baseline: Mesure et gestion de son temps
+
+----
+
+Description: Un outil simple pour mesurer le temps qu'on passe sur différentes taches et qui propose plusieurs modes de visualisation.
+
+----
+
+Theurl: https://joshavanier.itch.io/log
+
+----
+
+Opensource: true
+
+----
+
+Categories: logiciel
