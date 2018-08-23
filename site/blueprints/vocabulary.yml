@@ -6,7 +6,7 @@ fields:
     label: Title
     type:  text
   vocab: 
-    label: Vocabulary 
+    label: Vocabulary (automatiquement ordre alphabétique)
     type: structure 
     entry: > 
       {{title}}

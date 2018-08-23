@@ -2,7 +2,7 @@
 
 <h1 class="bmt"><?php echo $page->title()->html() ?></h1>
 
-<?php foreach ($page->vocab()->toStructure() as $vocab) : ?>
+<?php foreach ($page->vocab()->toStructure()->sortBy('title') as $vocab) : ?>
 	<hr>
 	<h3><?= $vocab->title() ?></h3>
 	<?= $vocab->answer()->kirbytext() ?>

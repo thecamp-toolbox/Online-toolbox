@@ -10,56 +10,55 @@ Vocab:
 
 - 
   title: Affordance
-  answer: >
-    Contrary to popular belief, Lorem Ipsum
-    is not simply random text. It has roots
-    in a piece of classical Latin literature
-    from 45 BC, making it over 2000 years
-    old. Richard McClintock, a Latin
-    professor at Hampden-Sydney College in
-    Virginia, looked up one of the more
-    obscure Latin words, consectetur, from a
-    Lorem Ipsum passage, and going through
-    the cites of the word in classical
-    literature, discovered the undoubtable
-    source. Lorem Ipsum comes from sections
-    1.10.32 and 1.10.33 of "de Finibus
-    Bonorum et Malorum" (The Extremes of
-    Good and Evil) by Cicero, written in 45
-    BC. This book is a treatise on the
-    theory of ethics, very popular during
-    the Renaissance. The first line of Lorem
-    Ipsum, "Lorem ipsum dolor sit amet..",
-    comes from a line in section 1.10.32.
+  answer: |
+    Capacité d’un objet à suggérer son utilisation.
+    Exemple : la hanse d’une tasse afforde l’idée de préhension
 - 
   title: ATAWAD
-  answer: >
-    Lorem ipsum dolor sit amet, mea case
-    voluptaria posidonium in. Cu per ridens
-    commodo reprimique, in cum verear
-    iudicabit. Duis aeterno delenit sed ne,
-    ad duo oblique recteque scribentur. Unum
-    nibh justo sed ad, omnis principes et
-    mea. Duo posse iracundia gubergren in,
-    cu mea brute verear definiebas.
+  answer: "La contraction de « Any Time, Any Where, Any Device». Ce qui signifie : n'importe quand, n'importe où, sur n'importe quel terminal. L'Atawad désigne la possibilité qu'offrent les technologies numériques d'être toujours connecté."
+- 
+  title: Charte graphique
+  answer: |
+    Ensemble de règles et d’éléments graphiques qui définit l’identité visuelle d’une entité. Ces éléments traduisent ce qu’est cette entité
+    Exemple : [charte graphique de la French Tech](http://www.lafrenchtech.com/sites/default/files/documents/ft_charte_1-2-4_acteurs_ecosysteme-160524.pdf)
 - 
   title: Creative Problem Solving
-  answer: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+  answer: >
+    Le Creative Problem Solving (résolution
+    de problèmes par la créativité) est
+    une méthode créative de résolution de
+    problème élaborée par Alex Osborn et
+    Sid Parnes. Elle allie à la fois un
+    processus structuré, des techniques, et
+    des rôles attribués aux différents
+    intervenants dans ce processus.
 - 
-  title: Desire path
-  answer: "If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc."
+  title: Desire path (ligne de désir)
+  answer: |
+    Une ligne de désir est en zone urbaine un sentier tracé graduellement par érosion à la suite du passage répété de piétons, cyclistes ou animaux. La présence de lignes de désir (à travers les parcs ou terrains vagues) signale un aménagement urbain inapproprié.
+    Exemples : [Wikipédia](https://en.wikipedia.org/wiki/Desire_path)
 - 
   title: Divergence / convergence
-  answer: ""
+  answer: "On appelle successivement phases de divergence et de convergence les phases de la créativité. La première cherche à générer un maximum d'idées différentes (par exemple, à travers le brainstorming, mais pas uniquement), alors que la seconde cherche à faire le tri à travers les idées générées. Dans un processus de créativité, les participants doivent absolument savoir dans quelle phase ils se trouvent."
 - 
-  title: Empathie
-  answer: "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable."
+  title: Cycle de vie
+  answer: 'Le cycle de vie d’une objet va de sa conception à son recyclage ou sa réutilisation. Les impacts du cycle de vie sont parfois négligés. 80% de l’énergie dépensée pour un ordinateur se passe au moment de sa fabrication.'
+- 
+  title: Mock-up
+  answer: >
+    Dessin finalisé d’un site ou d’une
+    application en vue du développement.
+    Visuellement fidèle au rendu souhaité,
+    mais non fonctionnel.
 - 
   title: User legend
   answer: "Une 'user story' mais dont on sait pertinemment qu'elle n'arrivera jamais..."
 - 
   title: Vox pop
-  answer: "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."
+  answer: |
+    Les interviews Vox pop cherchent à savoir ce que le public, un client ou un membre du personnel pense vraiment. Elles permettent de saisir des idées et des opinions ou découvrir des réactions face à de nouveaux produits et services.
+    
+    Pour réussir un Vox pop, il est nécessaire de s’assurer que l’équipe derrière la caméra a le bon profil démographique devant elle.
 - 
   title: Hackathon / makeathon
   answer: >
@@ -67,3 +66,61 @@ Vocab:
     lequel des équipes prototypent
     rapidement des solutions à des
     problématiques données.
+- 
+  title: Wireframe
+  answer: >
+    Brouillon filaire pour définir les
+    zones et interactions d’un site ou
+    d’une application. Chaque élément ou
+    zone est représenté.e par des carrés
+    simples.
+- 
+  title: Praticable
+  answer: |
+    Un objet praticable est un objet qui a la capacité à être pratiqué par une ou des actions exercées par l'homme sur lui grâce à la connaissance qu'il en a. Un objet praticable n’impose pas une fonction prédéfinie mais se laisse pratiquer de multiples façon.
+    Exemple : Skateboard.
+- 
+  title: Réglable
+  answer: |
+    Un objet se veut réglable quand son usager peut en choisir la fonction, le design en fonction de son besoins, de ses envies, du contexte.
+    Exemple : banquette arrière de voiture
+- 
+  title: Empathie
+  answer: "Capacité de s'identifier à autrui, d'éprouver ce qu'il éprouve. Le designer exerce au quotidien son empathie pour les humains, pour comprendre mieux en se mettant à leur place et trouver de meilleures solutions."
+- 
+  title: Design responsable
+  answer: >
+    Pensé par Victor Papanek dans son livre
+    “Design pour un Monde réel” le
+    design responsable se veut en 1978 être
+    un design au service de l’Homme et du
+    monde (dénonçant à l’époque le
+    design futile et inutile, pour seulement
+    “faire vendre”. C’est un design
+    qui se pose la question des impacts à
+    tout échelle et étape du projet.
+    Attention design responsable ne veut pas
+    forcément dire qu’il se préoccupe
+    des impacts écologiques et
+    environnementaux (on parlera plus
+    d’éco-design) mais également des
+    impacts sociaux, sociétaux,
+    morphologiques, culturels etc à
+    plusieurs niveau d’échelle ou de
+    temps. L’étude de ses impacts se
+    nomme l’anthropologie.
+- 
+  title: Éco-conception
+  answer: >
+    Pratique de conception qui consiste à
+    prendre en compte les aspects
+    environnementaux d’un projets, de la
+    conception/fabrication à sa fin de vie
+    ou recyclage en passant par son
+    utilisation.
+- 
+  title: "Scénario d'usage"
+  answer: "Dessin, schéma ou vidéo illustrant l’expérience d’un usager. Le scénario est un outil narratif permettant de rendre compte d’un point de vue subjectif sur différentes séquences de l’usage d’un produit ou d'un service."
+- 
+  title: Back-office
+  answer: "La partie d’un site internet ou d’un service visible seulement par le(les) administrateur(s). En opposition au 'front', qui est la partie vue par les utilisateurs du site."
