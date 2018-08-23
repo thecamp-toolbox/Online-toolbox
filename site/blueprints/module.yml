@@ -25,6 +25,12 @@ fields:
   description: 
     label: Description 
     type: textarea 
+  postimage:
+    label: Main Image
+    type:  selector
+    mode:  single
+    types:
+      - image
   imgcredit: 
     label: Image credit
     type: text

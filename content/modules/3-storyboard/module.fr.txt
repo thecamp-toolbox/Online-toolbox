@@ -99,3 +99,7 @@ Sources:
     process
   sourcelink: >
     https://uxmag.com/articles/storyboarding-in-the-software-design-process
+
+----
+
+Postimage: sticky-storyboarding-550x425.png

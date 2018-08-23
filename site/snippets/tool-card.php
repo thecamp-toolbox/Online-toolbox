@@ -1,9 +1,9 @@
-<div class="col-sm-4">
-	<div class="card mb-6">
+<div class="col-12 col-md-6 col-lg-4">
+	<div class="card mb-3">
 		<a href="<?= $p->url() ?>">
 			<div class="card-img-top">
-				<?php if ($p->hasImages()) : ?>
-		    		<?php $img = $p->images()->first() ?>
+				<?php if ($p->postimage()) : ?>
+		    		<?php $img = $p->postimage()->toFile() ?>
 		    		<div class="cover-img" style="background-image:url('<?= $img->url() ?>')">
 		    			<?php if ($diff = $p->difficulty()->int()) : ?>
 			    			<div class="cover-meta">
@@ -23,13 +23,6 @@
 	    		</h4>
 		    </a>
 		    <p class="card-text"><?= $p->baseline()->excerpt(80) ?></p>
-		</div>
-		<div class="card-footer text-muted">
-			<?php if ($p->template() == 'tool') : ?>
-				<i class="fa fa-wrench"></i> Outil
-			<?php elseif ($p->template() == 'module') : ?>
-				<i class="fa fa-users"></i> Module
-			<?php endif ?>
 		</div>
 	</div>
 </div>

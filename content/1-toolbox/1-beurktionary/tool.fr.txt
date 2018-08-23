@@ -43,3 +43,23 @@ Sources:
 ----
 
 State: POC
+
+----
+
+Postimage: web.png
+
+----
+
+Partner: Collectif BAM
+
+----
+
+Partnerurl: https://www.collectifbam.fr/
+
+----
+
+Partnerlogo: collectif_bam.jpg
+
+----
+
+Partnerrole: Co-designers

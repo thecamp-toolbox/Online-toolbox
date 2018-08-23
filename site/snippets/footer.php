@@ -2,19 +2,13 @@
 <div class="clearfix"></div>
 
 <div class="container">
-	<div class="bmt">
-		<hr>
-		<div class="row">
-			<div class="col-sm-4">
-			</div>
-			<div class="col-sm-4 center">
+	<div class="bmt center">
+
+
 				<a href="http://thecamp.fr" target="_blank">
 					<img src="<?= $site->url() ?>/assets/images/logo-thecamp-s.png">
 				</a>
-			</div>
-			<div class="col-sm-4 right">
 				<?= $site->footer()->kirbytext() ?>
-			</div>
 		</div>
 	</div>
 </div> <!-- fin content --> 

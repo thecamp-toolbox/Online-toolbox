@@ -24,7 +24,7 @@
 				<a class="nav-link disabled" href="#"><?= page('goals')->title().' :' ?></a>
 			</li>
 			<li class="nav-item">
-				<a class="nav-link <?php echo $noGoal ?>" href="<?= $site->url().'/prototypes' ?>">Tous</a>
+				<a class="nav-link <?php echo $noGoal ?>" href="<?= $site->url().'/toolbox' ?>">Tous</a>
 			</li>
 			<?php foreach ($goals as $g) : ?>
 				<li class="nav-item">
@@ -43,7 +43,7 @@
 				<a class="nav-link disabled" href="#"><?= page('focuses')->title().' :' ?></a>
 				</li>
 			<li class="nav-item">
-				<a class="nav-link <?php echo $noFocus ?>" href="<?= $site->url().'/prototypes' ?>">Tous</a>
+				<a class="nav-link <?php echo $noFocus ?>" href="<?= $site->url().'/toolbox' ?>">Tous</a>
 			</li>
 			<?php foreach ($focuses as $f) : ?>
 				<li class="nav-item">

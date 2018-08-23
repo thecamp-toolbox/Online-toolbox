@@ -6,7 +6,7 @@ Author: Arthur Schmitt
 
 ----
 
-Description: There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary.
+Description: Ce site est porté par l'équipe 'ressourcerie' de [thecamp](http://thecamp.fr). Il cherche à outiller les porteurs de projets dans leur processus de création et les opérateurs de lieux d'innovation dans leurs pratiques. Il documente les différents outils développés pour supporter les parcours d'innovation sur le campus, mais peuvent certainement être utiles plus largement.
 
 ----
 

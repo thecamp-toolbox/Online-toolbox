@@ -3,8 +3,8 @@
 <h1 class="bmt"><?php echo $page->title()->html() ?></h1>
 
 <?php foreach ($page->vocab()->toStructure()->sortBy('title') as $vocab) : ?>
-	<hr>
-	<h3><?= $vocab->title() ?></h3>
+	<hr class="short">
+	<h5 id="<?= slug($vocab->title()) ?>"><?= $vocab->title() ?></h5>
 	<?= $vocab->answer()->kirbytext() ?>
 <?php endforeach ?>
 

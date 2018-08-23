@@ -25,6 +25,12 @@ fields:
   description: 
     label: Description 
     type: textarea 
+  postimage:
+    label: Main Image
+    type:  selector
+    mode:  single
+    types:
+      - image
   imgcredit: 
     label: Image credit
     type: text
@@ -33,6 +39,27 @@ fields:
     label: Development state
     type: text
     width: 1/2
+  parts: 
+    label: Partenaire
+    type: headline 
+  partner: 
+    label: Partner name
+    type: text 
+    width: 1/2 
+  partnerurl: 
+    label: URL
+    type: url 
+    width: 1/2
+  partnerlogo:
+    label: logo
+    type:  selector
+    mode:  single
+    types:
+      - image
+  partnerrole: 
+    label: Role 
+    type: text 
+    width: 1/2 
   cats: 
     label: Filters
     type: headline 
@@ -54,27 +81,3 @@ fields:
     options: query
     query: 
       page: focuses
-  examples: 
-    label: Examples 
-    type: structure 
-    entry: > 
-      {{title}}
-    fields: 
-      title: 
-        label: Title 
-        type: text
-      exlink: 
-        label: Link
-        type: url  
-  sources:
-    label: Sources
-    type: structure
-    entry: > 
-      {{title}}
-    fields: 
-      title: 
-        label: Title 
-        type: text
-      sourcelink:
-        label: Link
-        type: url 
