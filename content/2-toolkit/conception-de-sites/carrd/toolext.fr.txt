@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Carrd
+
+----
+
+Baseline: Pour un one-pager simple
+
+----
+
+Description: Simple à utiliser et propre. La version premium reste très peu chère.
+
+----
+
+Theurl: https://carrd.co/
+
+----
+
+Opensource: false
+
+----
+
+Categories: plateforme

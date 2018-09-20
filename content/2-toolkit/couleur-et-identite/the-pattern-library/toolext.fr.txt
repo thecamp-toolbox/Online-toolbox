@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: The pattern library
+
+----
+
+Baseline: Bibliothèque de motifs
+
+----
+
+Description: Très beaux motifs, à utiliser comme background pour ses sites. Interface simple et agréable à utiliser.
+
+----
+
+Theurl: http://thepatternlibrary.com/
+
+----
+
+Opensource: false
+
+----
+
+Categories: bibliotheque

@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: SublimeText
+
+----
+
+Baseline: Editeur de code de référence
+
+----
+
+Description: Bourré de fonctionnalités pratiques pour les codeurs. Gratuit jusqu'à ce qu'on paie.
+
+----
+
+Theurl: https://www.sublimetext.com/
+
+----
+
+Opensource: false
+
+----
+
+Categories: logiciel

@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Book creator
+
+----
+
+Baseline: Création de livres numériques
+
+----
+
+Description: Permet de faire facilement (et gratuitement) des livres en ePub. Par exemple à travers des ateliers avec des enfants. Marche aussi sur Google Chrome.
+
+----
+
+Theurl: https://itunes.apple.com/fr/app/book-creator-for-ipad/id442378070?mt=8
+
+----
+
+Opensource: false
+
+----
+
+Categories: app, plateforme

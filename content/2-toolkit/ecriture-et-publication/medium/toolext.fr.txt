@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Medium
+
+----
+
+Baseline: Plateforme de publication
+
+----
+
+Description: Très simple à utiliser, Medium est devenu la référence dans la publication type 'blog'. La plupart des grandes organisations y ont un compte. Fonctionnalités sociales intéressantes.
+
+----
+
+Theurl: http://medium.com/
+
+----
+
+Opensource: false
+
+----
+
+Categories: plateforme

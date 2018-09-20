@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Github
+
+----
+
+Baseline: La référence pour partager du code
+
+----
+
+Description: L'application locale permet de gérer facilement tous les aspects qui peuvent être complexes avec l'utilisation de Git (système de gestion de versions décentralisé).
+
+----
+
+Theurl: http://github.com
+
+----
+
+Opensource: false
+
+----
+
+Categories: logiciel, plateforme

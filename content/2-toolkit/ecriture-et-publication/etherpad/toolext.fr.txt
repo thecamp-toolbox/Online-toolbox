@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Etherpad
+
+----
+
+Baseline: Editeur de texte collaboratif en ligne
+
+----
+
+Description: À installer sur un serveur pour avoir ses propres documents. Très simple à utiliser.
+
+----
+
+Theurl: http://etherpad.org/
+
+----
+
+Opensource: true
+
+----
+
+Categories: logiciel

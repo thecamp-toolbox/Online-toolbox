@@ -6,7 +6,7 @@ Author: Arthur Schmitt
 
 ----
 
-Description: Ce site est porté par l'équipe 'ressourcerie' de [thecamp](http://thecamp.fr). Il cherche à outiller les porteurs de projets dans leur processus de création et les opérateurs de lieux d'innovation dans leurs pratiques. Il documente les différents outils développés pour supporter les parcours d'innovation sur le campus, mais peuvent certainement être utiles plus largement.
+Description: Ce site est porté par l'équipe 'ressourcerie' de [thecamp](http://thecamp.fr). Il cherche à outiller les porteurs de projets dans leur processus de création et les opérateurs de lieux d'innovation dans leurs pratiques. Il documente les différents outils développés pour supporter les parcours d'innovation sur le campus en espérant qu'ils peuvent être utiles plus largement.
 
 ----
 

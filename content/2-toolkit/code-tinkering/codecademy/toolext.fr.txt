@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Codecademy
+
+----
+
+Baseline: Plateforme d'apprentissage du code
+
+----
+
+Description: Tous les langages ou presque peuvent s'apprendre sur Codecademy, à travers des exercices en ligne.
+
+----
+
+Theurl: https://www.codecademy.com/
+
+----
+
+Opensource: false
+
+----
+
+Categories: leanring-platform

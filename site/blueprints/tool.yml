@@ -39,6 +39,10 @@ fields:
     label: Development state
     type: text
     width: 1/2
+  repo: 
+    label: Repo Github 
+    type: url 
+    width: 1/2 
   parts: 
     label: Partenaire
     type: headline 

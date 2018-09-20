@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Bootstrap
+
+----
+
+Baseline: Le framework CSS de référence
+
+----
+
+Description: Bootstrap est une série de classes CSS et fonctions JS qui permettent de monter un site propre très rapidement. Possibilité d'avoir différents thèmes. De nombreux sites proposent des *templates* qui s'appuient sur Bootstrap.
+
+----
+
+Theurl: https://getbootstrap.com/
+
+----
+
+Opensource: true
+
+----
+
+Categories: bibliotheque

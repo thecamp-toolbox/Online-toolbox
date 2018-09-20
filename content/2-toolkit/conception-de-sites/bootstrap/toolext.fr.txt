@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Themes Bootstrap
+
+----
+
+Baseline: Les thèmes 'officiels' du framework CSS de référence
+
+----
+
+Description: Superbes thèmes. Plutôt chers, mais très complets. Permettent de faire plein de types de sites différents.
+
+----
+
+Theurl: https://themes.getbootstrap.com/
+
+----
+
+Opensource: true
+
+----
+
+Categories: bibliotheque

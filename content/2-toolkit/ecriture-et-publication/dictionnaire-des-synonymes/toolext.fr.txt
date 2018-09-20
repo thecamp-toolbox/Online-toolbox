@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Dictionnaire des synonymes
+
+----
+
+Baseline: En français
+
+----
+
+Description: Nécessaire quand on soit rédiger des documents.
+
+----
+
+Theurl: http://www.synonymes.com/
+
+----
+
+Opensource: false
+
+----
+
+Categories: bibliotheque

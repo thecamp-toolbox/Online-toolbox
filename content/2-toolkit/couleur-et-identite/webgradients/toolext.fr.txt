@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Webgradients
+
+----
+
+Baseline: Beaux gradients CSS
+
+----
+
+Description: Les gradients sont de nouveau à la mode ! Ce site permet de faire choisir celui qu'il nous faut et de copier-coller facilement le code CSS.
+
+----
+
+Theurl: https://webgradients.com/
+
+----
+
+Opensource: false
+
+----
+
+Categories: bibliotheque

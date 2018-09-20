@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Subtle patterns
+
+----
+
+Baseline: Bibliothèque de motifs simples
+
+----
+
+Description: De temps en temps, on a besoin d'un motif discret à mettre en fond de son site. Subtle Patterns est l'outil idéal pour ça.
+
+----
+
+Theurl: http://subtlepatterns.com/
+
+----
+
+Opensource: false
+
+----
+
+Categories: bibliotheque

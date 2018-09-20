@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Fork'n'go
+
+----
+
+Baseline: Templates de sites
+
+----
+
+Description: Une série de mini-sites hébergés sur github.io. Faciles à dupliquer et modifier.
+
+----
+
+Theurl: http://jlord.us/forkngo/
+
+----
+
+Opensource: true
+
+----
+
+Categories: template

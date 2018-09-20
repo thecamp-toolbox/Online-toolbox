@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Padlet
+
+----
+
+Baseline: Outil collaboratif de visualisation
+
+----
+
+Description: On peut créer différents types de 'boards' pour partager des informations ou des documents. Pratique parce que les utilisateurs peuvent, sans compte, publier des documents sur une 'board'.
+
+----
+
+Theurl: https://fr.padlet.com/dashboard
+
+----
+
+Opensource: false
+
+----
+
+Categories: plateforme

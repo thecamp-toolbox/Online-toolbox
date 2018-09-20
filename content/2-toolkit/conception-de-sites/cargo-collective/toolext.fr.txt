@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Cargo collective
+
+----
+
+Baseline: Constructeur de site en ligne
+
+----
+
+Description: Plutôt orienté 'portfolio'. Permet de faire de beaux sites.
+
+----
+
+Theurl: https://2.cargocollective.com/
+
+----
+
+Opensource: false
+
+----
+
+Categories: plateforme

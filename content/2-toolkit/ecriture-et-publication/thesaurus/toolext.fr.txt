@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Thesaurus
+
+----
+
+Baseline: (english)
+
+----
+
+Description: Idéal pour chercher des noms de projets en navigant les champs lexicaux autour d'un thème.
+
+----
+
+Theurl: https://www.thesaurus.com/
+
+----
+
+Opensource: false
+
+----
+
+Categories: bibliotheque, inspiration

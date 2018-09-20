@@ -7,6 +7,8 @@
 			<?php foreach ($page->parent()->children() as $cat) : ?>
 				<?php if ($page->url() == $cat->url()) : ?>
 					<?php $active = 'active' ?>
+				<?php else : ?>
+					<?php $active = '' ?>
 				<?php endif ?>
 				<a href="<?= $cat->url() ?>" class="pl-0 nav-link <?= $active ?>">
 					<?= $cat->title() ?>

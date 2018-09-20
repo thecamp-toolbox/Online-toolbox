@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Wordpress
+
+----
+
+Baseline: Plateforme de blog
+
+----
+
+Description: Pendant longtemps, Wordpress a été le CMS le plus populaire. La version en ligne permet d'y faire facilement un blog pour publier des choses.
+
+----
+
+Theurl: https://wordpress.org/
+
+----
+
+Opensource: true
+
+----
+
+Categories: plateforme

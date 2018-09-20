@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Kano challenges
+
+----
+
+Baseline: Plateforme d'apprentissage du code
+
+----
+
+Description: Au départ, Kano est un mini ordinateur à fabriquer, basé sur un Raspberry Pi. Plutôt fait pour les enfants. Ils proposent aussi toute une série de challenges de code en ligne.
+
+----
+
+Theurl: http://art.kano.me/challenges
+
+----
+
+Opensource: true
+
+----
+
+Categories: leanring-platform, object, plateforme, webapp

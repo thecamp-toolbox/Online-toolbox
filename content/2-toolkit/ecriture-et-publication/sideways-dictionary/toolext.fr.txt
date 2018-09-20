@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Sideways dictionary
+
+----
+
+Baseline: Dictionnaire par analogies
+
+----
+
+Description: Plusieurs termes liés aux nouvelles technologies y sont expliqués (en anglais).
+
+----
+
+Theurl: https://sidewaysdictionary.com/#/
+
+----
+
+Opensource: false
+
+----
+
+Categories: bibliotheque, inspiration

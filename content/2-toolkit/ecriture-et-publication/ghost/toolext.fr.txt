@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Ghost
+
+----
+
+Baseline: CMS fait pour la publication
+
+----
+
+Description: CMS moderne et bien fait pour la publication. Open source et très customisable.
+
+----
+
+Theurl: https://ghost.org/
+
+----
+
+Opensource: true
+
+----
+
+Categories: plateforme

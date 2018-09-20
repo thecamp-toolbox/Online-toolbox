@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Code.org
+
+----
+
+Baseline: Plateforme d'apprentissage du code
+
+----
+
+Description: Avec différentes cours et applications *in-browser*.
+
+----
+
+Theurl: http://code.org
+
+----
+
+Opensource: false
+
+----
+
+Categories: leanring-platform, plateforme

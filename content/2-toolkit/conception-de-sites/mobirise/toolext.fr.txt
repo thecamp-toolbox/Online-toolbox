@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Mobirise
+
+----
+
+Baseline: Logiciel de création de site
+
+----
+
+Description: Permet de construire des sites en utilisant des briques standard. Assez bien fait et basé sur Bootstrap. La version Premium donne accès à plus de *templates*.
+
+----
+
+Theurl: https://mobirise.com/
+
+----
+
+Opensource: true
+
+----
+
+Categories: logiciel

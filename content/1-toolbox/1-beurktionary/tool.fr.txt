@@ -10,7 +10,99 @@ Baseline: Un jeu pour imaginer les pires des produits possibles
 
 ----
 
-Description: It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
+Description: 
+
+> Beurktionary = Beurk + pictionary 
+
+##Les objectifs du jeu Beurktionnary
+
+###Objectifs compétence 
+
+- Exercer à la créativité et au lâcher prise
+- Identifier les valeurs incarnée par l’équipe projet 
+- Team building dans l’équipe
+- Évacuer les effets de fixation de l’expert pour trouver de nouvelles idées
+- Former au design et la conception (critères à prendre en compte)
+- Libérer la créativité sur le rendu et le passage à l’action 
+
+###Objectifs projet 
+
+- Pratiquer une purge sur ses propres projets avec autodérision et sans attaque
+- Prendre conscience des enjeux auxquels on pense pas si on passe direct en positif
+- Identifier des « touch points », points sensibles sur lesquels être attentifs 
+- Réaliser un « bon » brief design
+
+##Les origines du jeu : le sens, l’usage et l’impact !
+
+La Défectuologie pour traquer les défaillances :
+
+Cette technique consiste à adopter une attitude très critique - génératrice d'idées - en prenant conscience des insatisfactions existant dans l'usage d'un produit, dans le recours à un service, dans le fonctionnement d'une institution... Elle doit permettre de chercher à améliorer, perfectionner à l'extrême le sujet étudié.
+
+Le Beurktionnary a été créé en recensant tous les défauts, inconvénients ou faiblesses d'un produit ou d'un service, les classant en fonction de certains critères : 
+
+- Aspect du produit
+- Usage
+- Utilité 
+- Conditionnement 
+- Accessibilité
+- Prix
+- Conséquence de l’utilisation
+- Fiabilité, 
+- Intrusion
+- etc. 
+
+Des niveaux de difficulté sont identifiés au verso des cartes
+
+##Le beurktionary et principes de créativité 
+###Sortir des « effets de fixation »
+
+**L’autodérision **
+Cet exercice permet la purge des non-dit dans l’organisation par des moyens détournés, et autorisés.
+
+**Redevenir candides**
+Le Beurktionary permet aux experts de limiter l’impact des « effets de fixation » qui souvent les font passer à côté de choses évidentes ou les empêchent de reconnaître l’impact néfaste de leur produit/service. 
+Cet outil permet aux experts de remettre en évidence leur propre paradigme sans le prendre personnellement car on reste dans la fiction et le caricatural. 
+
+###La créativité par l’absurde
+
+**Nous sommes meilleurs pour critiquer que pour innover !**
+
+**L’effet Kafka : comment l’absurde peut booster votre créativité**
+Des études ont mis en évidence (2011) que les membres d’un groupe ayant dû défendre en argumentant une thèse à laquelle il ne croient pas ont de meilleurs résultats que les membres du groupe ayant argumenté en suivant leur conviction.  Dans une autre étude, on a présenté à certain participants des couples de mots ayant un rapport (par exemple lave-chaud, gâteau-chocolat, …) et à d’autre des couples de mots aléatoires (virage-grenouille, prudent-pull, …). Les participants exposés au stimulus  « d’inconfort » ont montré plus d’audace et ont été plus performants dans les tests de créativité réalisés.
+
+**Émotion et créativité**
+Un événement absurde “met en éveil” votre cerveau, de la même manière qu’un bruit fort fait battre votre cœur plus vite et met en tension vos muscles pour vous préparer à fuir ou à vous battre. Si vous vous attelez à une tâche créative (telle que l’écriture, le dessin, la résolution d’un problème, …) vous aurez bien plus de facilité à repérer des détails ou des schémas nouveaux car votre cerveau filtrera moins les informations qui lui parviennent et sera plus ouvert.
+
+###Association forcée 
+
+L’association forcée est considéré comme un des processus créatifs clé à côté de la sérendipité, etc.  Il s'agit d'associer ou plutôt de combiner deux idées, deux solutions ou deux univers parfois a priori très étrangers, afin d'en créer un troisième, inédit.
+La carte contrainte joue alors un rôle de stimuli pour former des associations inattendues et, on l'espère, originales.
+
+> Voir la liste de « mots ressorts » de Kentt & Rosanoff, résultat d'une étude en psychologie (publiée en 1910 - "American Journal of Insanity")
+
+**Contrainte créatrice**
+Le choc créatif permet de modifier les présupposés du problème 
+jusqu’à déstructurer son cadre de référence pour en faire surgir un nouveau
+(nouvelle gestalt = nouvelles règles).
+
+###L'amour du jeu 
+
+**Le jeu **
+La gamification — ou ludification en français — est un anglicisme désignant le fait d’appliquer des mécanismes de jeux à des situations diverses de notre quotidien (site web, application mobile, éducation, méthodes de vente, achat en ligne, relation client etc.). Il a été découvert que le jeu permettait d’amplifier l’engagement, l’énergie et donc la production.
+
+**La visualisation (facilitation graphique)**
+La visualisation par le dessin, au-delà d’être ludique, permet de matérialiser la production et éveiller un sentiment de fierté. Par ailleurs il permet de ne pas rester au niveau du conceptuel et de détailler les propositions absurdes permettant l’échange entre les participants. 
+
+
+
+
+##L'agence Beurkdesign
+Le jeu s'appuie sur l'agence fictive Beurkdesign, dont les designers s'évertuent à créer les pires produits possibles, afin de faire évoluer l'humanité. 
+
+(image: beurkdesign_logo.png)
+
+> Chez Beürk Agency nous sommes convaincus que l’Homme n’évolue que dans un contexte de contraintes et de souffrance.
+La sélection naturelle n’est-elle pas la voie la plus rapide vers le Progrès ? L’homme aurait-il été le même s’il n’avait pas souffert à l’ère glacière, des prédateurs et des maladies ?  Accélérons la transition vers l’Humain 2.0 en le confrontant au pire !
 
 ----
 
@@ -63,3 +155,7 @@ Partnerlogo: collectif_bam.jpg
 ----
 
 Partnerrole: Co-designers
+
+----
+
+Repo: 

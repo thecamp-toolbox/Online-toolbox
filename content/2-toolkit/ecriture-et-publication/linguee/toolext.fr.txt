@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Linguee
+
+----
+
+Baseline: Site de traduction par comparaison
+
+----
+
+Description: Linguee permet de trouver des traductions à différentes expressions en comparant la manière dont les contenus sont traduits sur différents sites.
+
+----
+
+Theurl: http://linguee.fr/
+
+----
+
+Opensource: false
+
+----
+
+Categories: plateforme

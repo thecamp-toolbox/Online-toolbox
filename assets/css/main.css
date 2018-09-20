@@ -25,6 +25,14 @@ hr {
 a:hover {
 	text-decoration: none;
 }
+article img {
+	max-width: 100%;
+}
+article blockquote {
+	font-style: italic; 
+	padding-left: 15px;
+	border-left: solid 3px grey;
+}
 .mt {
 	margin-top: 25px;
 }

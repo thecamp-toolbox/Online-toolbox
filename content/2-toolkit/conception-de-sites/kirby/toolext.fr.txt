@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Kirby
+
+----
+
+Baseline: CMS light (sans base de donnée)
+
+----
+
+Description: Un CMS très facile à utiliser quand on sait coder un peu. Basé sur PHP.
+
+----
+
+Theurl: http://getkirby.com
+
+----
+
+Opensource: true
+
+----
+
+Categories: plateforme

@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Flat UI colors
+
+----
+
+Baseline: Palettes de couleurs 'flat'
+
+----
+
+Description: Bibliothèque propre et efficace de couleurs pour interfaces flat (sans dégradés).
+
+----
+
+Theurl: https://flatuicolors.com/
+
+----
+
+Opensource: false
+
+----
+
+Categories: bibliotheque

@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Slides.com
+
+----
+
+Baseline: Outil de présentation en ligne
+
+----
+
+Description: Permet de faire de très belles présentations in-browser. Les codeurs peuvent en plus ajouter des fonctionnalités.
+
+----
+
+Theurl: https://slides.com/
+
+----
+
+Opensource: true
+
+----
+
+Categories: plateforme

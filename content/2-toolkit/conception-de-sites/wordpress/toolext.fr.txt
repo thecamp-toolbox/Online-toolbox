@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Wordpress
+
+----
+
+Baseline: Le CMS de base
+
+----
+
+Description: Pendant longtemps, Wordpress a été le CMS le plus populaire. Un peu une usine à gaz, il reste intéressant parce qu'il a de nombreux thèmes et plugins. Existe aussi une version en ligne payante qui inclut de l'hébergement sur [wordress.com](http://wordpress.com).
+
+----
+
+Theurl: https://wordpress.org/
+
+----
+
+Opensource: true
+
+----
+
+Categories: bibliotheque, plateforme

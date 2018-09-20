@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Colordot
+
+----
+
+Baseline: In-browser color picker
+
+----
+
+Description: Une grande palette pour choisir la couleur qu'on veut.
+
+----
+
+Theurl: https://color.hailpixel.com/
+
+----
+
+Opensource: false
+
+----
+
+Categories: webapp

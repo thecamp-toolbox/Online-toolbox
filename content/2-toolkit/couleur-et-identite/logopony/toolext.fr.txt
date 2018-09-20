@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Logopony
+
+----
+
+Baseline: Générateur de logos
+
+----
+
+Description: On peut choisir la typo et l'icône de notre choix pour faire un logo rapidement. À chaque fois, plusieurs propositions sont faites.
+
+----
+
+Theurl: https://app.logopony.com/
+
+----
+
+Opensource: false
+
+----
+
+Categories: 

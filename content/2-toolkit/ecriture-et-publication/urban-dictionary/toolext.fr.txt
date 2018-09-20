@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Urban dictionary
+
+----
+
+Baseline: Le dictionnaire alternatif
+
+----
+
+Description: Contributif, comme Wikipédia, sauf que c'est pour tout les mots de *slang*. À ne pas mettre entre toutes les mains.
+
+----
+
+Theurl: https://www.urbandictionary.com/
+
+----
+
+Opensource: false
+
+----
+
+Categories: bibliotheque, inspiration

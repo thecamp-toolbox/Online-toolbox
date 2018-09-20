@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Atom
+
+----
+
+Baseline: Editeur de code développé par Github
+
+----
+
+Description: Entièrement customisable. Plutôt pour les développeurs avancés.
+
+----
+
+Theurl: https://atom.io/
+
+----
+
+Opensource: true
+
+----
+
+Categories: 

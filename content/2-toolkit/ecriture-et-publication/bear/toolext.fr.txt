@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Bear
+
+----
+
+Baseline: Logiciel de prise de notes
+
+----
+
+Description: Simple prise de notes. Disponible sur plusieurs plateformes en version Premium.
+
+----
+
+Theurl: http://www.bear-writer.com/
+
+----
+
+Opensource: false
+
+----
+
+Categories: app, logiciel

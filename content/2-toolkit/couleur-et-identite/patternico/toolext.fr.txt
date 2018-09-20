@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Patternico
+
+----
+
+Baseline: Faire son motif à partir d'icones
+
+----
+
+Description: On peut facilement créer un motif *seamless* à utiliser comme background pour un site. (Aussi, possibilité de le faire avec des émojis)
+
+----
+
+Theurl: http://patternico.com/
+
+----
+
+Opensource: false
+
+----
+
+Categories: webapp

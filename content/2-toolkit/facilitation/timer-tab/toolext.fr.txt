@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Timer tab
+
+----
+
+Baseline: Un chrono sur une simple page web
+
+----
+
+Description: Parfait pour *timer* les différentes phases d'un atelier. Le timer reste visible dans l'onglet même quand on est en train de faire autre chose.
+
+----
+
+Theurl: http://www.timer-tab.com/
+
+----
+
+Opensource: false
+
+----
+
+Categories: webapp

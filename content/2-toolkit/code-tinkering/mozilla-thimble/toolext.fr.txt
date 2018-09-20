@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Mozilla Thimble
+
+----
+
+Baseline: Editeur de code en ligne pour apprendre
+
+----
+
+Description: Idéal pour mener des cours de code. Pas besoin de créer de compte pour commencer à jouer. Possible aussi de partir de *templates*.
+
+----
+
+Theurl: https://thimble.mozilla.org/
+
+----
+
+Opensource: false
+
+----
+
+Categories: leanring-platform, plateforme, webapp

@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Glitch
+
+----
+
+Baseline: Editeur de code en ligne
+
+----
+
+Description: Tous les projets sont associés à un hébergement basé sur node.js. Facile aussi de 'forker' des projets. Très cool à utiliser comme bac à sable pour des 'petits' projets test.
+
+----
+
+Theurl: http://glitch.com
+
+----
+
+Opensource: false
+
+----
+
+Categories: plateforme

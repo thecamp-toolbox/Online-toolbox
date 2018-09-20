@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Collabpad
+
+----
+
+Baseline: Ecriture collaborative simplifiée
+
+----
+
+Description: Permet facilement d'écrire un document à plusieurs. Pas nécessaire de se faire un compte.
+
+----
+
+Theurl: https://collabpad.io/
+
+----
+
+Opensource: false
+
+----
+
+Categories: plateforme

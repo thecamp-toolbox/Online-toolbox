@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: CodeCombat
+
+----
+
+Baseline: Apprendre le code par le jeu
+
+----
+
+Description: Permet d'apprendre javascript à travers plusieurs niveaux. Les jeux ressemblent à des jeux d'aventure, de combat ou d'exploration.
+
+----
+
+Theurl: https://codecombat.com/
+
+----
+
+Opensource: false
+
+----
+
+Categories: leanring-platform

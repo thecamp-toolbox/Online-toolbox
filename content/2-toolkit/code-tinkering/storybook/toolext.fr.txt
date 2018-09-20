@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Storybook
+
+----
+
+Baseline: Environnement de développement
+
+----
+
+Description: Permet de gérer une bibliothèque de templates.
+
+----
+
+Theurl: http://storybook.js.org
+
+----
+
+Opensource: true
+
+----
+
+Categories: logiciel

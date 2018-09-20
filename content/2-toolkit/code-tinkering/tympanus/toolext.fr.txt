@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Tympanus
+
+----
+
+Baseline: Bibliothèque d'effets CSS / JS
+
+----
+
+Description: La référence pour trouver des effets UI intéressants (boutons, hovers, etc.). Facile à mettre en place ensuite.
+
+----
+
+Theurl: https://tympanus.net/codrops
+
+----
+
+Opensource: false
+
+----
+
+Categories: bibliotheque, template

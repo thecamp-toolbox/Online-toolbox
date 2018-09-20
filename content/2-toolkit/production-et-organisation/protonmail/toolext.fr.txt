@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Protonmail
+
+----
+
+Baseline: Messagerie sécurisée
+
+----
+
+Description: La messagerie de référence si on ne veut pas que nos mails soient lus pour nous fournir de la publicité...
+
+----
+
+Theurl: https://protonmail.com/fr/
+
+----
+
+Opensource: true
+
+----
+
+Categories: plateforme

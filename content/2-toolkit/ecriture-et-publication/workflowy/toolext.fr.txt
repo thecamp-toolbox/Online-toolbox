@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Workflowy
+
+----
+
+Baseline: Des listes pour organiser son cerveau
+
+----
+
+Description: Permet de tout organiser sous forme de listes. Fonctionnalités simples mais très pratiques.
+
+----
+
+Theurl: https://workflowy.com/
+
+----
+
+Opensource: false
+
+----
+
+Categories: app, plateforme

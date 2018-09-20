@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Awwwards
+
+----
+
+Baseline: Collection de sites inspirants
+
+----
+
+Description: Awwwwards met en valeur des sites magnifiques. Les utilisateurs votent pour leurs sites préférés. Intéressant pour suivre les tendances.
+
+----
+
+Theurl: https://www.awwwards.com/
+
+----
+
+Opensource: false
+
+----
+
+Categories: bibliotheque, inspiration

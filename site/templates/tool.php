@@ -61,6 +61,7 @@
 
                     </div>
                 </div>
+                
                 <?php if ($page->hasDocuments()) : ?>
                     <div class="btn-group">
                         <button type="button" class="btn btn-success btn-lg">
@@ -104,7 +105,6 @@
             </div>
             <!--end of col-->
 
-
             <div class="col-12 col-md-4">
 
             	<?php if ($page->partner() != '') : ?>
@@ -133,6 +133,12 @@
 	                    </div>
 	                </div>
             	<?php endif ?>
+
+            	<?php if ($page->repo() != '') : ?>
+	            	<a class="btn btn-outline-secondary btn-block" href="<?= $page->repo() ?>" target="_blank">
+	            		<i class="fa fa-github mr-1"></i> Voir sur Gihub
+	                </a>
+	            <?php endif ?>
 
             </div>
             <!--end of col-->

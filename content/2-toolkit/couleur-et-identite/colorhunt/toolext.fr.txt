@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Colorhunt
+
+----
+
+Baseline: Bibliothèque de palettes de couleurs
+
+----
+
+Description: Plein de palettes de couleurs différentes pour ajouter à son projet.
+
+----
+
+Theurl: https://colorhunt.co/
+
+----
+
+Opensource: false
+
+----
+
+Categories: bibliotheque

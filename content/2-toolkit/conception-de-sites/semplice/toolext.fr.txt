@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Semplice
+
+----
+
+Baseline: Constructeur de portfolio basé sur Wordpress
+
+----
+
+Description: Semplice permet de faire de jolis portfolios en ligne (*drag and drop*).
+
+----
+
+Theurl: https://www.semplice.com/
+
+----
+
+Opensource: false
+
+----
+
+Categories: plateforme

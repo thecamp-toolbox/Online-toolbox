@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Flukeout
+
+----
+
+Baseline: Plateforme d'apprentissage CSS
+
+----
+
+Description: Ce petit jeu rigolo permet d'apprendre à utiliser les différents sélectionneurs CSS.
+
+----
+
+Theurl: http://flukeout.github.io/
+
+----
+
+Opensource: true
+
+----
+
+Categories: leanring-platform

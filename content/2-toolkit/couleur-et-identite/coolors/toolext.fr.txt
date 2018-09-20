@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Coolors
+
+----
+
+Baseline: Générateur de couleurs
+
+----
+
+Description: Permet de créer rapidement des associations de couleurs pour son projet.
+
+----
+
+Theurl: https://coolors.co/
+
+----
+
+Opensource: false
+
+----
+
+Categories: bibliotheque, webapp

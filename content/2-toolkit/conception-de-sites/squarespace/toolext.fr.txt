@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Squarespace
+
+----
+
+Baseline: La référence du site 'clé en main'
+
+----
+
+Description: Squarespace permet de faire facilement son site en ligne en faisant du *drag-and-drop* ou en partant de thèmes de base.
+
+----
+
+Theurl: http://squarespace.com
+
+----
+
+Opensource: false
+
+----
+
+Categories: plateforme

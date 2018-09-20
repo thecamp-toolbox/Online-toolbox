@@ -1,0 +1,25 @@
+Prevnext: 
+
+----
+
+Title: Jsfiddle
+
+----
+
+Baseline: Code playground
+
+----
+
+Description: Petit application qui permet de tester facilement du code HTML / CSS / JS.
+
+----
+
+Theurl: https://jsfiddle.net/
+
+----
+
+Opensource: false
+
+----
+
+Categories: webapp
